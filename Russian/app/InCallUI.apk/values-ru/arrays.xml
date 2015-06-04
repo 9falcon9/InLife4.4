@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Видео</item>
+    </string-array>
+    <array name="sim_icons">
+        <item>@drawable/ic_sim_icon_1</item>
+        <item>@drawable/ic_sim_icon_2</item>
+        <item>@null</item>
+    </array>
+    <array name="fih_slot1_icons_tabs">
+        <item>@drawable/zzz_slot1_indicator_00</item>
+        <item>@drawable/zzz_slot1_indicator_01</item>
+        <item>@drawable/zzz_slot1_indicator_02</item>
+        <item>@drawable/zzz_slot1_indicator_03</item>
+        <item>@drawable/zzz_slot1_indicator_04</item>
+        <item>@drawable/zzz_slot1_indicator_05</item>
+        <item>@drawable/zzz_slot1_indicator_06</item>
+        <item>@null</item>
+    </array>
+    <array name="fih_slot2_icons_tabs">
+        <item>@drawable/zzz_slot2_indicator_00</item>
+        <item>@drawable/zzz_slot2_indicator_01</item>
+        <item>@drawable/zzz_slot2_indicator_02</item>
+        <item>@drawable/zzz_slot2_indicator_03</item>
+        <item>@drawable/zzz_slot2_indicator_04</item>
+        <item>@drawable/zzz_slot2_indicator_05</item>
+        <item>@drawable/zzz_slot2_indicator_06</item>
+        <item>@null</item>
+    </array>
+    <string-array name="clir_display_values">
+        <item>Network default</item>
+        <item>Hide number</item>
+        <item>Show number</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Все</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Только EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA/EvDo автомат.</item>
+        <item>GSM/WCDMA автомат.</item>
+        <item>Только WCDMA</item>
+        <item>Только GSM</item>
+        <item>GSM/WCDMA предпочт.</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Off</item>
+        <item>TTY Full</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Обычный</item>
+        <item>Долгий</item>
+    </string-array>
+    <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+    </string-array>
+</resources>
