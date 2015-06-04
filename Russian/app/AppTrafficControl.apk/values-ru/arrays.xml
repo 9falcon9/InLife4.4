@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="issue_types">
+        <item>Производительность</item>
+        <item>Стабильность</item>
+        <item>Интерфейс пользователя</item>
+        <item>Контроль Траффика упал</item>
+        <item>Другие проблемы</item>
+        <item>Предложения</item>
+    </string-array>
+</resources>

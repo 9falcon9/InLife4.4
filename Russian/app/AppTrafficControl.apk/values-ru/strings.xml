@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контроль Траффика</string>
+    <string name="list_title">Список приложений</string>
+    <string name="app_description">Вы можете включить или выключить передачу данных для следующих приложений:</string>
+    <string name="checkbox_title_text">Выбрать все</string>
+    <string name="menu_done">Готово</string>
+    <string name="checkbox_3g_title_text">Mobile</string>
+    <string name="checkbox_wifi_title_text">WLAN</string>
+    <string name="dialog_notice_title">Контроль Траффика</string>
+    <string name="dialog_notice_body">Изменения не применены, Вы действительно хотите выйти?</string>
+    <string name="dialog_progress_body">Применяем изменения...</string>
+    <string name="str_toast_block_prefix">"Приложению запрещен доступ в Интернет через "</string>
+    <string name="str_toast_block_mobile">Mobile</string>
+    <string name="str_toast_block_wifi">WLAN</string>
+    <string name="customer_feedback">Оставить отзыв</string>
+    <string name="string_rate_app">Оценить приложение</string>
+    <string name="string_report_problem">Сообщить о проблеме</string>
+    <string name="str_loading">Обновление...</string>
+    <string name="str_about_traffic_control">О программе</string>
+    <string name="str_version_number">Версия</string>
+    <string name="str_version_info_default">Неизвестно</string>
+    <string name="str_rate_app">Оценить приложение</string>
+    <string name="str_send_feedback">Отправить отзыв</string>
+    <string name="str_category_weather">Метео служба</string>
+    <string name="str_category_google">Google Service</string>
+    <string name="str_category_fm">FM Radio</string>
+    <string name="str_category_calendar">Календарь</string>
+</resources>
