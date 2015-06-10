@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="keyguard_domestic_zone_name">Москва</string>
+    <string name="every_day">Каждый день</string>
+    <string name="never">Никогда</string>
+    <string name="day_concat">", "</string>
+    <string name="default_label">Будильник</string>
+    <string name="voiceui_notify_string">Вы можете произнести</string>
+    <string name="voiceui_control_poweroff_alarm">для выключения будильника</string>
+    <string name="voiceui_comma">,</string>
+    <string name="voiceui_or">или</string>
+    <string name="keyguard_accessibility_alarm_unlock">Выключение будильника</string>
+    <string name="alarm_alert_dismiss_text">Отключить</string>
+    <string name="alarm_alert_snooze_text">+10 мин</string>
+    <string name="keyguard_password_entering_puk_code">Введите PUK-код</string>
+    <string name="retries_left">Осталось попыток: %d</string>
+    <string name="simlock_slot_locked_message">Слот SIM-карты заблокирован</string>
+    <string name="lockscreen_missing_sim_dialog_message">SIM-карта не обнаружена. Пожалуйста, проверьте правильность установки SIM-карты.</string>
+    <string name="sim_card_changed_dialog_title">SIM-карта заменена</string>
+    <string name="change_setting_for_onenewsim">Обнаружена новая SIM-карта. Её название</string>
+    <string name="change_setting_for_twonewsim">Обнаружены новые SIM-карты. Их названия</string>
+    <string name="sim_card_removed">SIM-карта извлечена</string>
+    <string name="sim_card_swapped">SIM-карта заменена</string>
+    <string name="change_settings">Изменить</string>
+    <string name="keyguard_voice_call">Звонки:</string>
+    <string name="keyguard_sms">Сообщения:</string>
+    <string name="keyguard_data">Передача данных:</string>
+    <string name="keyguard_close">Закрыть</string>
+    <string name="default_sim_setting_prompt">Новые установки:</string>
+    <string name="keyguard_video_call">Видео звонки:</string>
+    <string name="invalid_sim_title">Недействительная SIM-карта</string>
+    <string name="invalid_sim_message">UIM/SIM-карта не поддерживается</string>
+    <string name="keyguard_alwaysask">Всегда спрашивать</string>
+    <string name="keyguard_data_none">Выкл.</string>
+    <string name="keyguard_sim_auto">Авто</string>
+    <string name="keyguard_internal_call">Местный вызов</string>
+    <string name="keyguard_not_set">Не установлен</string>
+    <string name="voice_unlock_service_error">Ошибка голосового управления!</string>
+    <string name="voice_unlock_password_wrong">Извините, не удалось распознать пароль!</string>
+    <string name="voice_unlock_noisy">Слишком шумно для правильного определения!</string>
+    <string name="voice_unlock_weak">Вы говорите слишком тихо!</string>
+    <string name="voice_unlock_media_playing">Управление голосом отключено во время воспроизведения</string>
+    <string name="voiceunlock_multiple_failures">Достигнуто макс. число попыток разблокировки голосом</string>
+    <string name="voiceunlock_accessibility_voice_unlock">Разблокировка голосом</string>
+    <string name="app_name">Экран блокировки</string>
+    <string name="lockscreen_sim_error_message_short">Ошибка SIM-карты</string>
+    <string name="faceunlock_multiple_failures">Достигнуто макс. число попыток разблокировки по лицу</string>
+    <string name="keyguard_charged">Полностью заряжен</string>
+    <string name="keyguard_plugged_in">Идет зарядка, %d%%</string>
+    <string name="keyguard_low_battery">Подключите зарядное устройство</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Нажмите «Меню» для разблокировки</string>
+    <string name="keyguard_perso_locked_message">%s/RUIM is Perso locked</string>
+    <string name="keyguard_missing_sim_message_short">Нет %s-карты</string>
+    <string name="keyguard_missing_sim_instructions">Установка %s-карты</string>
+    <string name="keyguard_missing_sim_instructions_long" formatted="false">%s-карта отсутствует или нечитаема. Вставьте %s карту.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Эта %s-карта более не действительна</string>
+    <string name="keyguard_permanent_disabled_sim_instructions" formatted="false">"Эта %s-карта была заблокирована.
+ Свяжитесь с вашим оператором для получения новой %s-карты."</string>
+    <string name="keyguard_sim_locked_message">%s-карта заблокирована</string>
+    <string name="keyguard_sim_puk_locked_message">%s-карта требует ввода PUK-кода</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка %s-карты…</string>
+    <string name="keyguard_accessibility_add_widget">Добавить виджет</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Пусто</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Область разблокировки развернута</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Область разблокировки свернута</string>
+    <string name="keyguard_accessibility_widget">Виджет %1$s</string>
+    <string name="keyguard_accessibility_user_selector">Выбор пользователя</string>
+    <string name="keyguard_accessibility_status">Состояние</string>
+    <string name="keyguard_accessibility_camera">Камера</string>
+    <string name="keygaurd_accessibility_media_controls">Кнопки проигрывателя</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Начата группировка виджетов</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Закончена группировка виджетов</string>
+    <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удален</string>
+    <string name="keyguard_accessibility_expand_lock_area">Увеличить область разблокировки</string>
+    <string name="keyguard_accessibility_slide_unlock">Разблокировка сдвигом</string>
+    <string name="keyguard_accessibility_pattern_unlock">Разблокировка рисунком</string>
+    <string name="keyguard_accessibility_face_unlock">Разблокировка по лицу</string>
+    <string name="keyguard_accessibility_pin_unlock">Разблокировка по PIN-коду</string>
+    <string name="keyguard_accessibility_password_unlock">Разблокировка по паролю</string>
+    <string name="keyguard_accessibility_pattern_area">Область рисунка</string>
+    <string name="keyguard_accessibility_slide_area">Область сдвига</string>
+    <string name="keyguard_accessibility_transport_prev_description">Предыдущий трек</string>
+    <string name="keyguard_accessibility_transport_next_description">Следующий трек</string>
+    <string name="keyguard_accessibility_transport_play_description">Воспроизведение</string>
+    <string name="keyguard_accessibility_show_bouncer">Разблокируйте</string>
+    <string name="keyguard_accessibility_hide_bouncer">Запуск отменен</string>
+    <string name="keyguard_accessibility_delete_widget_start">Сдвиньте %1$s для удаления</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s не будет удален</string>
+    <string name="keyboardview_keycode_cancel">Отмена</string>
+    <string name="keyboardview_keycode_delete">Стереть</string>
+    <string name="keyboardview_keycode_enter">Ввод</string>
+    <string name="description_target_unlock">Разблокировать</string>
+    <string name="description_direction_up">Сдвиньте вверх для %s</string>
+    <string name="description_direction_left">Сдвиньте влево %s</string>
+    <string name="description_direction_right">Сдвиньте вправо для %s</string>
+    <string name="user_switched">Текущий пользователь %1$s.</string>
+    <string name="kg_emergency_call_label">Экстренный вызов</string>
+    <string name="kg_forgot_pattern_button_text">Забыли пароль?</string>
+    <string name="kg_wrong_pattern">Неверный рисунок</string>
+    <string name="kg_wrong_password">Неверный пароль</string>
+    <string name="kg_wrong_pin">Неверный PIN-код</string>
+    <string name="kg_too_many_failed_attempts_countdown">Попробуйте снова через %d сек.</string>
+    <string name="kg_pattern_instructions">Нарисуйте ваш ключ</string>
+    <string name="kg_sim_pin_instructions">Введите PIN-код</string>
+    <string name="kg_pin_instructions">Введите PIN-код</string>
+    <string name="kg_password_instructions">Введите пароль</string>
+    <string name="kg_puk_enter_pin_hint">Укажите новый PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Подтвердите новый PIN-код</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка %s-карты…</string>
+    <string name="kg_invalid_sim_pin_hint">Введите PIN-код (от 4 до 8 цифр)</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код содержит 8 цифр</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
+    <string name="kg_login_too_many_attempts">Слишком много попыток ввода</string>
+    <string name="kg_login_instructions">Для разблокировки, войдите в аккаунт Google.</string>
+    <string name="kg_login_username_hint">Имя пользователя (email)</string>
+    <string name="kg_login_password_hint">Пароль</string>
+    <string name="kg_login_submit_button">Войти</string>
+    <string name="kg_login_invalid_input">Неверное имя или пароль</string>
+    <string name="kg_login_checking_password">Проверка аакунта…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно указали PIN-код %d раз. 
+
+Попробуйте снова через %d сек."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неправильно указали пароль %d раз. 
+
+Попробуйте снова через %d сек."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы неправильно указали графический ключ %d раз. 
+
+Попробуйте снова через %d сек."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы не смогли разблокировать телефон %d раз. Осталось попыток: %d. Затем телефон будет сброшен к заводским установкам и все пользовательские данные будут удалены.</string>
+    <string name="kg_failed_attempts_now_wiping">Вы не смогли разблокировать телефон %d раз. Сейчас телефон будет возвращен к заводским установкам.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы неправильно указали графический ключ %d раз. Осталось попыток: %d. Затем вам потребуется указать email для разблокировки.
+
+Попробуйте снова через %d сек."</string>
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_reordering_delete_drop_target_text">Удалить</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неверный PIN %s код. Свяжитесь с оператором для разблокировки телефона.</string>
+    <string name="kg_password_wrong_puk_code_dead">%s не действительна. Свяжитесь с оператором.</string>
+    <string name="kg_password_pin_failed">%s ошибки PIN!</string>
+    <string name="kg_password_puk_failed">%s ошибки PUK!</string>
+    <string name="keyguard_transport_pause_description">Пауза</string>
+    <string name="keyguard_transport_play_description">Воспроизведение</string>
+    <string name="keyguard_transport_stop_description">Остановка</string>
+    <string name="keyguard_carrier_default">Нет сети</string>
+    <string name="msim_kg_sim_pin_msg_format" formatted="false">SUB %d : %s</string>
+    <string name="ok">OK</string>
+    <string name="keyguard_china_time_zone">Beijing</string>
+    <string name="abbrev_month_day_no_year">d MMMM</string>
+    <string name="keyguard_slide_screen_to_unlock" />
+    <string name="keyguard_slide_shortcut_to_unlock">Сдвиньте вверх для запуска</string>
+    <string name="keyguard_wallpaper_settings">Обои</string>
+    <string name="keyguard_wallpaper_settings_home">Домашний экран</string>
+    <string name="keyguard_wallpaper_settings_keyguard">Экран блокировки</string>
+    <string name="keyguard_wallpaper_keyguard">Выбор обоев</string>
+    <string name="keyguard_wallpaper_gallery">Галерея</string>
+    <string name="keyguard_wallpaper_wallpaper">Обои</string>
+    <string name="wallpaper_instructions">Установить обои</string>
+    <string name="keyguard_wallpaper_set_dialog">Установка обоев…</string>
+    <string name="keyguard_wallpaper_gallery_disable">На телефоне нет изображений</string>
+    <string name="keyguard_unlock_shortcut">Ярлыки экрана блокировки</string>
+    <string name="keyguard_set_shortcut">Установить ярлык</string>
+    <string name="keyguard_select_shortcut_change">Нажмите для изменения</string>
+    <string name="unlock_china_telecom_plmn">China Telecom</string>
+    <string name="abbrev_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="keyguard_operator_name_sim">SIM</string>
+    <string name="keyguard_operator_name_uim">UIM</string>
+    <string name="dialog_alert_title">Внимание</string>
+    <string name="tutorial_check">Больше не показывать</string>
+    <string name="tutorial_text">"1. Добавьте виджеты в «Настройки» > «Блокировка экрана». 
+
+2. Сдвиг влево/вправо для просмотра виджетов на экране блокировки. 
+
+3. Вы можете нажать «+» на экране блокировки для добавления и удерживать для редактирования.
+
+"</string>
+    <string name="flip_smart_cover_open">Откройте чехол для разблокировки</string>
+    <string name="flip_the_cover_to_edit">Экран блокировки заполнен, откройте чехол для редактирования.</string>
+    <string name="long_press_widget_to_edit">Экран блокировки заполнен, удерживайте виджет для редактирования.</string>
+    <string name="keyguard_add_widget_success">Успешно добавлен</string>
+    <string name="keyguard_tap_to_add_widget">Нажмите «+» для добавления виджета</string>
+</resources>

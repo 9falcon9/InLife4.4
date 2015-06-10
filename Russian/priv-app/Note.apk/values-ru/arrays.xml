@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>только что</item>
+        <item>1 мин. назад</item>
+        <item>5 мин. назад</item>
+        <item>10 мин. назад</item>
+        <item>15 мин. назад</item>
+        <item>20 мин. назад</item>
+        <item>25 мин. назад</item>
+        <item>30 мин. назад</item>
+        <item>45 мин. назад</item>
+        <item>1 час назад</item>
+        <item>2 часа назад</item>
+        <item>3 часа назад</item>
+        <item>12 часов разад</item>
+        <item>24 часа назад</item>
+        <item>2 дня назад</item>
+        <item>неделю назад</item>
+    </string-array>
+</resources>

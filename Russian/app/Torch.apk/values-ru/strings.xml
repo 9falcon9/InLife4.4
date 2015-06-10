@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_torch">Фонарик</string>
+    <string name="light_occuration_reference_string">Определят использование светодиода другими приложениями</string>
+    <string name="notification_ticker_text">Включен фонарик</string>
+    <string name="notification_content_text">Нажмите для выключения</string>
+    <string name="rateApp">Оценить приложение</string>
+    <string name="feedback">Отправить отзыв</string>
+    <string name="about">О программе</string>
+    <string name="version">Версия</string>
+</resources>

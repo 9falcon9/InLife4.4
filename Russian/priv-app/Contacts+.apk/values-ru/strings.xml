@@ -254,7 +254,7 @@
     <string name="fih_menu_speed_dial">Быстрый набор</string>
     <string name="fih_speed_dial_unassigned">Не устан.</string>
     <string name="fih_no_speed_dial_entry">Не выбр.скор.набор</string>
-    <string name="fih_adjust_dial_pad_size">Наст.разм.пан.наб.номера</string>
+    <string name="fih_adjust_dial_pad_size">Изм. разм. номеронабирателя</string>
     <string name="fih_merge_limit_message">Невозм.подкл. контакт. Разреш. подкл. не более 5 конт.</string>
     <string name="fih_join_limit_message">Невозм.подкл.контакт. Разреш. подкл. не более 5 конт. Действие вызов. перегрузку.</string>
     <string name="fih_contact_max_group">Разреш. подкл. конт.только к %d группе(ам)</string>

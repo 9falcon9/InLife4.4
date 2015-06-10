@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Установите Сервисы Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_text_tablet">Для работы этого приложения требуется установить Сервисы Google Play.</string>
+    <string name="common_google_play_services_install_button">Установить</string>
+    <string name="common_google_play_services_enable_title">Включите Сервисы Google Play</string>
+    <string name="common_google_play_services_enable_text">Для работы этого приложения требуется включить Сервисы Google Play.</string>
+    <string name="common_google_play_services_enable_button">Включить</string>
+    <string name="common_google_play_services_update_title">Обновите Сервисы Google Play</string>
+    <string name="common_google_play_services_update_text">Для работы этого приложения требуется обновить Сервисы Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Ошибка сети</string>
+    <string name="common_google_play_services_network_error_text">Для работы с Google Play требуется подключение к сети.</string>
+    <string name="common_google_play_services_invalid_account_title">Недействительный аккаунт</string>
+    <string name="common_google_play_services_invalid_account_text">Этого аккаунта нет на устройстве. Выберите другой.</string>
+    <string name="common_google_play_services_unknown_issue">Неизвестная ошибка с Сервисами Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">Сервисы Google Play</string>
+    <string name="common_google_play_services_unsupported_text">Сервисы Google Play, необходимые для работы некоторых приложений, не поддерживаются на вашем устройстве. Обратитесь к производителю.</string>
+    <string name="common_google_play_services_unsupported_date_text">Проверьте правильность даты, указанной на устройстве.</string>
+    <string name="common_google_play_services_update_button">Обновить</string>
+    <string name="common_signin_button_text">Войти</string>
+    <string name="common_signin_button_text_long">Войти в аккаунт Google</string>
+    <string name="auth_client_using_bad_version_title">Версия сервисов Google Play неисправна</string>
+    <string name="auth_client_needs_enabling_title">Для работы приложения требуется включить сервисы Google Play</string>
+    <string name="auth_client_needs_installation_title">Для работы приложения требуется установить сервисы Google Play</string>
+    <string name="auth_client_needs_update_title">Для работы приложения требуется обновить сервисы Google Play</string>
+    <string name="auth_client_play_services_err_notification_msg">Ошибка сервисов Google Play</string>
+    <string name="auth_client_requested_by_msg">Запрос от приложения \"%1$s\"</string>
+    <string name="action_settings">Настройки</string>
+    <string name="about">О программе</string>
+    <string name="version">Версия</string>
+    <string name="privacy">Privacy</string>
+    <string name="rate">Оценить приложение</string>
+    <string name="feedback">Отзыв</string>
+    <string name="more_apps">Еще приложения</string>
+    <string name="google_play">Google Play</string>
+    <string name="baidu">Baidu</string>
+    <string name="privacy_text"><b>Privacy Statement</b>"
+
+We care about your privacy seriously and understand how it is important for you to have a secure environment to use the application. To continuously improve the performance and stability of the application, we sometimes need to collect your information contained in the device automatically. In this Privacy Statement, we explain how we collect this information and how we use it.
+
+"<b>Information collection and usage</b>"
+There are two approaches we collect the information:
+● When the application has an error, the application will create an error report. It incorporates the information of the device in the report
+● Base on how you use our application to collect the information
+The above information will be transmitted to us via modem connection or Wi-Fi. It will be sorted and analyzed to be our reference for improving the functionality, performance and stability of the application. The content of the report may differ depending on the different purpose of the report. It may contain the following information:
+● Device IMEI
+● Hardware model
+● OS version
+● Network MCC/MNC information
+● The time period and the number of times the application has been run or the functions in the applications have been executed
+● Wi-Fi usage information
+● Mobile data usage information
+● Time the error occurred
+● Error log
+
+"<b>Information security</b>"
+We strictly protect your personal information and use a variety of security technologies and procedures to protect your personal information from illegal access, use or disclosure. For example, your information is stored on a secure and reliable network and the server is installed at a place where entry and exit are strictly controlled. Only authorized personnel who need your information are allowed to access it. EXCEPT FOR THE SITUATIONS LISTED IN DISCLAIMER, we will not use, distribute, sell or dispose your personal information to any third party for any purpose.
+
+"<b>Information retention</b>"
+The information will be retained until the completion of the purpose of the Privacy Statement. In order to comply with law or upon request of a governmental authority, the retention period may be extended.
+
+"<b>Children privacy policy</b>"
+We care about children’s’ personal information and privacy seriously. Especially for kids and teenagers under fourteen years old, we hope the parents can coach and teach them how to use our application to ensure their rights and interests. When you start to use the application, it means that your parents have already read, understood and agreed to the terms and changes of the Privacy Statement.
+
+"<b>Disclaimer</b>"
+WE DO NOT ASSUME ANY LEGAL LIABILITY FOR ANY OF THE FOLLOWING:
+A. YOUR PERSONAL INFORMATION IS DISCLOSED ACCORDING TO LAW OR UPON REQUEST OF A GOVERNMENTAL AUTHORITY;
+B. YOUR PERSONAL INFORMATION IS DISCLOSED DUE TO SERVER PROBLEMS BROUGHT ABOUT BY HACKING, VIRUS, OR GOVERNMENT ACTION;
+
+"<b>Change Notice</b>"
+We will update the privacy statement from time to time and will notify you the changes via email or public announcement on our website.
+
+"</string>
+    <string name="everwell_privacy_message">"Здравствуйте,
+
+Добро пожаловать в Заметки. Перед началом работы, ознакомьтесь с условиями пользования. Для обеспечения всех функций, приложению необходим доступ к местоположению для добавления меток на карте к заметкам. Информация о местоположении используется ТОЛЬКО для этих целей. Если вы согласны, нажмите ОК для начала работы. Если вы НЕ согласны, выберите Выход для завершения.
+"</string>
+    <string name="everwell_privacy_link_txt"><u>Privacy Statement</u></string>
+    <string name="recommend_filemanager">FileManager</string>
+    <string name="recommend_safebox">SafeBox</string>
+    <string name="app_name">Заметки</string>
+    <string name="fih_notepad_unmark_menu_txt">Unmark</string>
+    <string name="fih_notepad_select_all_menu_txt">Выбрать все</string>
+    <string name="fih_notepad_unselect_all_menu_txt">Отменить выбор</string>
+    <string name="fih_notepad_select_menu_text">%1$d выбрано</string>
+    <string name="fih_notepad_no_notes_txt">Нет заметок</string>
+    <string name="fih_notepad_delete_title_txt">Удалить</string>
+    <string name="fih_notepad_delete_message_txt">Удалить выбранное?</string>
+    <string name="fih_notepad_no_space_warning_txt">На устойстве закончилось место</string>
+    <string name="fih_notepad_spinner_view_list">Список</string>
+    <string name="fih_notepad_spinner_view_grid">Сетка</string>
+    <string name="fih_notepad_spinner_sort_by">Соритровка</string>
+    <string name="fih_notepad_menu_search">Поиск</string>
+    <string name="fih_notepad_menu_tutorial">Обучение</string>
+    <string name="fih_notepad_menu_new_folder">Новая папка</string>
+    <string name="fih_notepad_menu_refresh_library">Обновить библиотеку</string>
+    <string name="fih_notepad_menu_export">Экспортировать</string>
+    <string name="fih_notepad_menu_insert">Добавить заметку</string>
+    <string name="fih_notepad_menu_check_model">Провер. модель</string>
+    <string name="fih_notepad_menu_copy">Копировать</string>
+    <string name="fih_notepad_menu_move">Двигать</string>
+    <string name="fih_notepad_menu_delete">Удалить</string>
+    <string name="fih_notepad_menu_paste">Вставить</string>
+    <string name="fih_notepad_menu_rename">Переименовать</string>
+    <string name="fih_notepad_menu_create_new">Новая заметка</string>
+    <string name="fih_notepad_search_hint">Поиск в заметках</string>
+    <string name="fih_notepad_wait_txt">Подождите…</string>
+    <string name="fih_notepad_has_deleted">Удалено: %1$d</string>
+    <string name="fih_notepad_has_copied">Скопировано: %1$d</string>
+    <string name="fih_notepad_has_moved">Перемещено: %1$d</string>
+    <string name="fih_notepad_title_hint">Введите название</string>
+    <string name="fih_notepad_ap_not_available">Нет приложений для этого действия</string>
+    <string name="fih_notepad_insert_image">Вставка изображения</string>
+    <string name="fih_notepad_insert_picture">Картинка</string>
+    <string name="fih_notepad_insert_capture">Захват изобр.</string>
+    <string name="fih_notepad_share_via">Поделиться</string>
+    <string name="fih_notepad_share_fail">Ошибка отправки</string>
+    <string name="fih_notepad_save_fail">Ошибка сохранения</string>
+    <string name="fih_notepad_content_empty">Пустое содержимое</string>
+    <string name="fih_notepad_max_title_length">Достигнута макс. длина</string>
+    <string name="sort_by_recent">Дата (по убыв.)</string>
+    <string name="sort_by_oldest">Дата (по возр.)</string>
+    <string name="sort_by_asc">Название (a-я)</string>
+    <string name="sort_by_desc">Название (я-a)</string>
+    <string name="fih_notepad_size_byte_txt">" Байта(ов)"</string>
+    <string name="fih_notepad_size_kb_txt">KБ</string>
+    <string name="fih_notepad_size_mb_txt">MБ</string>
+    <string name="fih_notepad_size_gb_txt">ГБ</string>
+    <string name="fih_notepad_edit_menu_delete_page">Удалить страницу</string>
+    <string name="fih_notepad_edit_menu_share">Поделиться</string>
+    <string name="fih_notepad_edit_remove_record">Удалить эту запись</string>
+    <string name="fih_notepad_edit_remove_record_message">Вы действительно хотите удалить файл этой записи?</string>
+    <string name="fih_notepad_export_to_path">Экспорт в</string>
+    <string name="fih_recordview_play_error">Сбой воспроизведения записи, удалите её.</string>
+    <string name="fih_recordview_recording_error">Запись не удалась! Проверьте, что нет других приложений занимающихся тем же.</string>
+    <string name="fih_warning_memory_low">Заканчивается память</string>
+    <string name="fih_warning_already_running">Уже запущено, ожидайте…</string>
+    <string name="fih_waring_file_not_exist">Ошибка открытия! Файл не существует.</string>
+    <string name="fih_notepad_recording_short">Слишком короткая запись. Не возможно проиграть, удалите её.</string>
+    <string name="fih_notepad_recording_max_time">Превышено макс. время записи</string>
+    <string name="fih_notepad_recording_has_no_record">Нет записей, требующих удаления</string>
+    <string name="fih_notepad_file_destoryed">Файл был уничтожен</string>
+    <string name="fih_notepad_edit_clear_scrawl_title">Очистить все</string>
+    <string name="fih_notepad_edit_clear_scrawl_notice">Очистить все кисти на странице?</string>
+    <string name="fih_notepad_share_empty_note">Нет содержимого для отправки</string>
+    <string name="fih_notepad_export_empty_note">Нет содержимого для экспорта</string>
+    <string name="fih_notepad_dialog_new_folder_defalut_input">Введите название</string>
+    <string name="fih_notepad_select_template">Выбор шаблона</string>
+    <string name="fih_notepad_choose_notebook">Выбор обложки</string>
+    <string name="fih_notepad_template_diary">Дневник</string>
+    <string name="fih_notepad_template_notebook">Тетрадь</string>
+    <string name="fih_notepad_template_meeting">Встреча</string>
+    <string name="fih_notepad_template_travel">Путешествие</string>
+    <string name="fih_notepad_template_painting">Рисунок</string>
+    <string name="fih_notepad_template_todo">Список</string>
+    <string name="fih_notepad_choose">Выберите вашу заметку</string>
+    <string name="fih_notepad_style_diary_01">Дневник01</string>
+    <string name="fih_notepad_style_diary_02">Дневник02</string>
+    <string name="fih_notepad_style_notebook_01">Тетрадь01</string>
+    <string name="fih_notepad_style_notebook_02">Тетрадь02</string>
+    <string name="fih_notepad_style_notebook_03">Тетрадь03</string>
+    <string name="fih_notepad_style_notebook_04">Тетрадь04</string>
+    <string name="fih_notepad_style_notebook_05">Тетрадь05</string>
+    <string name="fih_notepad_style_notebook_06">Тетрадь06</string>
+    <string name="fih_notepad_style_notebook_07">Тетрадь07</string>
+    <string name="fih_notepad_style_notebook_08">Тетрадь08</string>
+    <string name="fih_notepad_style_notebook_09">Тетрадь09</string>
+    <string name="fih_notepad_style_meeting_01">Встреча01</string>
+    <string name="fih_notepad_style_meeting_02">Встреча02</string>
+    <string name="fih_notepad_style_travel_01">Путешествие01</string>
+    <string name="fih_notepad_style_travel_02">Путешествие02</string>
+    <string name="fih_notepad_style_travel_03">Путешествие03</string>
+    <string name="fih_notepad_style_painting_01">Рисунок01</string>
+    <string name="fih_notepad_style_painting_02">Рисунок02</string>
+    <string name="menu_change">Изменить фото</string>
+    <string name="menu_edit">Изменить</string>
+    <string name="menu_manage">Управлять</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_layer">Слой</string>
+    <string name="menu_move_top">Поместить наверх</string>
+    <string name="menu_move_forward">Переместить вперёд</string>
+    <string name="menu_move_backward">Переместить назад</string>
+    <string name="menu_move_bottom">Move to bottom</string>
+    <string name="menu_copy">Копировать</string>
+    <string name="menu_cut">Вырезать</string>
+    <string name="copy_to_clipboard">Копировать в буфер</string>
+    <string name="noting_to_paste">Нечего вставлять</string>
+    <string name="fih_notepad_edit_overwrite_record">Перезаписать</string>
+    <string name="fih_notepad_edit_overwrite_record_message">Перезаписать существующий файл?</string>
+    <string name="fih_notepad_no_search_result_txt">Нет совпадений</string>
+    <string name="fih_note_set_background">Установка фона</string>
+    <string name="fih_note_background_default">По умолчанию</string>
+    <string name="fih_note_background_gallery">Из Галереи</string>
+    <string name="fih_note_select_background">Выбор фона</string>
+    <string name="fih_note_set_to_currentpage">Применить на этой странице</string>
+    <string name="fih_note_set_to_allpage">Применить ко всем страницам</string>
+    <string name="fih_note_pdf">PDF</string>
+    <string name="fih_note_image">Изображение</string>
+    <string name="fih_note_text">Текст</string>
+    <string name="fih_notepad_menu_search_by_title">Заголовок</string>
+    <string name="fih_notepad_menu_search_by_all">Все</string>
+    <string name="fih_note_photo_edit">Редакт. фото</string>
+    <string name="image_is_invalid">Плохой файл изображения!</string>
+    <string name="fih_note_spinner_title">Все записи</string>
+    <string name="fih_note_spinner_view_as">Смотреть как</string>
+    <string name="fih_note_deleted_page">Delete this %1$d page(s)?</string>
+    <string name="fih_note_spinner_title_copy_to">Копировать в</string>
+    <string name="fih_note_spinner_title_move_to">Переместить в</string>
+    <string name="fih_note_list_operation_no_item_select">Ничего не выбрано</string>
+    <string name="fih_note_list_default_folder_name">Папка</string>
+    <string name="fih_note_list_name_already_exists">Такое имя уже есть</string>
+    <string name="fih_note_list_only_file_can_be_pasted">Можно вставить только файл</string>
+    <string name="fih_note_viewedit_note_corrupt">Заметка повреждена</string>
+    <string name="fih_note_paste_select_page">Please paste the copyed page(s)</string>
+    <string name="fih_note_no_selected_page">Нет выбранных страниц</string>
+    <string name="fih_note_record_time_format">%1$02d:%2$02d:%3$02d</string>
+    <string name="weather_sunny">Солнечно</string>
+    <string name="weather_partly_sunny">Перемен. облачность</string>
+    <string name="weather_cloudy">Пасмурно</string>
+    <string name="weather_rain">Дожди</string>
+    <string name="weather_thunder">Грозы</string>
+    <string name="weather_snowy">Снегопад</string>
+    <string name="location_fail">Ошибка определения местоположения</string>
+    <string name="note_object_textbox">Область текста</string>
+    <string name="note_object_image">Изображение</string>
+    <string name="note_object_collage">Коллаж</string>
+    <string name="note_object_contact">Контакт</string>
+    <string name="note_object_time">Время</string>
+    <string name="note_object_date">Дата</string>
+    <string name="note_object_weather">Погода</string>
+    <string name="note_object_location">Место</string>
+    <string name="note_object_clipboard">Буфер обмена</string>
+    <string name="note_object_map">Карта</string>
+    <string name="note_insert_texbox">Вставка текст. поля</string>
+    <string name="note_object_text_singleline">Одна строка</string>
+    <string name="note_object_text_multipleline">Неск. строк</string>
+    <string name="note_insert_weather">Вставка погоды</string>
+    <string name="note_weather_image_only">Только иконка</string>
+    <string name="note_weather_image_text">Иконка с информацией</string>
+    <string name="note_hint_current_location">Текущее местоположение</string>
+    <string name="note_hint_alternative_location">Альтернативное местоположение</string>
+    <string name="note_addpage_title">Выбор новой страницы</string>
+    <string name="note_addpage_blackstyle">Пустая страница</string>
+    <string name="note_addpage_templatestyle">Страница шаблона</string>
+    <string name="note_exit_note_title">Выход</string>
+    <string name="note_exit_note_message">Заметка не сохранена, действительно закончить создание?</string>
+    <string name="note_recording_stop">Запись остановлена</string>
+    <string name="note_cannot_record_now">Невозможно вести запись сейчас</string>
+    <string name="note_list_copy_tip">Выберите папку для вставки или вставьте здесь</string>
+    <string name="note_list_move_tip">Выберите папку для перемещения</string>
+    <string name="note_cant_crop_image">"Image size too small, can't crop it"</string>
+    <string name="note_object_clip_stamp">Stamp</string>
+    <string name="note_clip_activity_title">Вставка клип-арта</string>
+    <string name="note_object_clip">Клип-арт</string>
+    <string name="note_object_clip_shape">Shape</string>
+    <string name="note_object_clip_continuous">Стикер</string>
+    <string name="note_location_title">Позиционирование</string>
+    <string name="note_memory_low_confirm_title">Осталось мало места</string>
+    <string name="note_memory_low_confirm">Сохранитесь и завершите приложение</string>
+    <string name="template_diary_hint">Это мой дневник…</string>
+    <string name="template_meeting_hint">Время встречи…</string>
+    <string name="template_travel_hint">описание</string>
+    <string name="template_travel_hint2">нет информации</string>
+    <string name="template_item_attendess">Участники</string>
+    <string name="template_item_location">Местоположение</string>
+    <string name="template_item_date">Дата</string>
+    <string name="template_item_time">Время</string>
+    <string name="template_item_subject">Тема</string>
+    <string name="template_item_members">Участники</string>
+    <string name="template_item_description">Описание</string>
+    <string name="navigation_not_showagain">Больше не показывать</string>
+    <string name="navi_note_list_text_01">Добавить заметку</string>
+    <string name="navi_note_list_text_02">Выбор и изменение</string>
+    <string name="navi_template_select_text_01">Выбор стиля при создании</string>
+    <string name="navi_scale_text_01">Как увеличить экран</string>
+    <string name="navi_scale_text_02">Вы можете увеличивать экран сведением/разведением двух пальцев или двигать перемещением красной зоны</string>
+    <string name="navi_edit_text_01">Инстр. «Текст»</string>
+    <string name="navi_edit_text_02">Инстр. «Кисть»</string>
+    <string name="navi_edit_text_03">Вставка объектов</string>
+    <string name="navi_edit_text_04">Управление страницами</string>
+    <string name="navi_edit_text_05">Добавить страницу</string>
+    <string name="navi_edit_text_06">Голосовая запись</string>
+    <string name="navi_edit_text_07">Изменить заметку</string>
+    <string name="navi_detail_add_new_note">Новая заметка</string>
+    <string name="navi_detail_note_title_01">Тетрадь01</string>
+    <string name="navi_detail_note_title_02">Тетрадь02</string>
+    <string name="navi_detail_note_title_03">Тетрадь03</string>
+    <string name="navi_detail_note_title_04">Тетрадь04</string>
+    <string name="navi_detail_note_title_05">Тетрадь05</string>
+    <string name="navi_detail_note_title_06">Тетрадь06</string>
+    <string name="navi_detail_finish_button">Вперёд!</string>
+    <string name="navi_detail_switch_brush_sum">Совет: нажмите и удерживайте область текста для быстрого переключения в такстовый режим из режима рисования кистью.</string>
+    <string name="message_compose_error_invalid_email">Некоторые email адреса введены с ошибками.</string>
+    <string name="cannot_edit_cliparts">Не возможно изменить клипарт</string>
+    <string name="done">Ввод</string>
+    <string name="copy_number">Копировать тел. номер</string>
+    <string name="copy_email">Копировать email</string>
+    <string name="more_string">+ %1$s</string>
+    <string name="delete">Удаление</string>
+    <string name="addToDictionary">Добавить в словарь</string>
+    <string name="deleteText">Удалить</string>
+    <string name="textSelectionCABTitle">Выбор текста</string>
+    <string name="selectAll">Выбрать всё</string>
+    <string name="cut">Вырезать</string>
+    <string name="copy">Копировать</string>
+    <string name="paste">Вставить</string>
+    <string name="replace">Вставка…</string>
+    <string name="clipboard_info">Выберите для вставки</string>
+    <string name="note_play_type_fade_in">Затухание</string>
+    <string name="note_play_type_rotate">Поворот</string>
+    <string name="note_play_type_left_right">Слева</string>
+    <string name="note_play_type_top_bottom">Сверху</string>
+    <string name="note_play_type_bottom_top">Снизу</string>
+    <string name="note_play_type_right_left">Справа</string>
+    <string name="note_map_network_error">Ошибка сети</string>
+    <string name="note_map_init_fail">Ошибка создания карты</string>
+    <string name="note_map_not_ready">Карта не готова</string>
+    <string name="textbox_back_set">Установить фон</string>
+    <string name="textbox_back_none">Нет</string>
+    <string name="textbox_back_color">Цвет</string>
+    <string name="textbox_back_paper">Материал бумаги</string>
+    <string name="textbox_back_gallery">Галерея</string>
+    <string name="title_activity_main">Выбор материала бумаги</string>
+    <string name="note_textboxbg_gallery">Установить фон</string>
+    <string name="reminder">Напоминание</string>
+    <string name="from">От</string>
+    <string name="to">Для</string>
+    <string name="accessibility_pick_start_date">Дата начала</string>
+    <string name="accessibility_pick_start_time">Время начала</string>
+    <string name="accessibility_pick_end_date">Дата окончания</string>
+    <string name="accessibility_pick_end_time">Время окончания</string>
+    <string name="accessibility_reminder_time">Время напоминания</string>
+    <string name="reminder_icon">Иконка напоминания</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="reminders_label">Добавить напоминание</string>
+    <string name="reminder_description">Из Заметок</string>
+    <string name="no_reminder_name">Введите название, затем установите напоминания.</string>
+    <string name="record_tag_added">Добавлен тег записи</string>
+    <string name="record_tag_interval_short">Интервал слишком мал</string>
+    <string name="clipboard_clear">Очистить</string>
+    <string name="autoplay_time_01">3с</string>
+    <string name="autoplay_time_02">5с</string>
+    <string name="autoplay_time_03">8с</string>
+    <string name="autoplay_time_04">10с</string>
+    <string name="autoplay_time_05">12с</string>
+    <string name="topbar_texttodo">Список</string>
+    <string name="topbar_textcolor">Цвет</string>
+    <string name="topbar_textsize">Размер</string>
+    <string name="topbar_textbold">Жирный</string>
+    <string name="topbar_textitalic">Курсив</string>
+    <string name="topbar_textunderline">Подчеркн.</string>
+    <string name="topbar_texthighlight">Фон</string>
+    <string name="topbar_textsymbol">Символ</string>
+    <string name="topbar_textalign">Формат.</string>
+    <string name="topbar_textboxbg">Фон</string>
+    <string name="topbar_brushstyle">Стиль</string>
+    <string name="topbar_brushsize">Размер</string>
+    <string name="topbar_brushcolor">Цвет</string>
+    <string name="topbar_erasersize">Размер ластика</string>
+    <string name="topbar_eraserall">Стереть всё</string>
+    <string name="topbar_shapelinewidth">Ширина линии</string>
+    <string name="topbar_shapelinecolor">Цвет линии</string>
+    <string name="topbar_shapeareacolor">Цвет</string>
+    <string name="topbar_more_in_layer2">Чёрный</string>
+    <string name="topbar_viewmode_play">Воспр.</string>
+    <string name="topbar_viewmode_stop">Остановить</string>
+    <string name="topbar_eraser_preview_sum">%1$d пикс.</string>
+    <string name="fih_note_menu_feedback_txt">Отправить отзыв</string>
+    <string name="fih_note_menu_rate_txt">Оценить приложение</string>
+    <string name="fih_note_feedback_type_GUI">Интерфейс пользователя</string>
+    <string name="fih_note_feedback_type_stability">Стабильность</string>
+    <string name="fih_note_feedback_type_performance">Производительность</string>
+    <string name="fih_note_feedback_type_Other">Другие проблемы</string>
+    <string name="fih_note_feedback_type_suggestion">Пожелания</string>
+    <string name="topbar_textinsert">Вставить</string>
+    <string name="note_print_text">Печать</string>
+    <string name="contacts_limit_warning">Превышено ограничение</string>
+    <string name="contacts_limit_too_much_contacts">Слишком много контактов, максмум: 50.</string>
+    <string name="fih_note_data_warning_title_txt">Советы</string>
+    <string name="fih_note_data_warning_txt">"Здравствуйте,
+
+Добро пожаловать в Заметки. Перед началом работы, ознакомьтесь с требованиями приложения. Если вы согласны, нажмите «ОК» для начала работы. Если вы НЕ согласны, выберите «Выход» для завершения.
+
+Для обеспечения всех функций, приложению необходимы следущие разрешения:
+1. Доступ в Интернет, Wi-Fi — для определения местоположения, координат на карте
+2. Доступ к контактам — для вставки карточек контаков в заметки
+3. Создание фото и аудио записей — для быстрого создания заметок с аудио и фото
+4. Отправка SMS/Email — для пересылки заметок
+5. Доступ к местоположению — для вставки меток на карте в заметки
+6. Автозагрузка — для поиска заметок, сохраненных на SD-карте"</string>
+    <string name="fih_note_data_warning_ok">ОК</string>
+    <string name="fih_note_data_warning_cancel">Выход</string>
+    <string name="fih_note_data_warning_dialog_checkbox">Не предупреждать больше</string>
+    <string name="note_encrypt_text">Шифрование</string>
+    <string name="note_cancel_encrypt_text">Отмена шифрования</string>
+    <string name="note_password_verification">Проверка пароля</string>
+    <string name="note_input_old_password">Введите старый пароль</string>
+    <string name="note_input_new_password">Введите новый пароль</string>
+    <string name="note_input_password">Ввод пароля</string>
+    <string name="note_change_password">Изменить пароль</string>
+    <string name="note_remove_password">Убрать пароль</string>
+    <string name="note_confirm_password">Подтвердить пароль</string>
+    <string name="note_show_password">Показать пароль</string>
+    <string name="note_create_password">Создать пароль</string>
+    <string name="note_password_not_same">Пароли не совпадают</string>
+    <string name="note_password_not_fulfill">Завершите ввод пароля</string>
+    <string name="note_old_password_wrong">Введен неверный пароль</string>
+    <string name="note_old_password_not_input">Введите старый пароль</string>
+    <string name="note_password_wrong">Проверка введенного пароля не прошла</string>
+    <string name="fih_note_about_txt">О программе</string>
+    <string name="fih_note_version_txt">Версия</string>
+    <string name="topbar_change_path">Изменить путь</string>
+    <string name="topbar_change_template_color">Изменить цвет</string>
+    <string name="topbar_change_template_border">Изменить рамку</string>
+    <string name="collage_pictures_out_of_amount">Превышено макс. количество изображений</string>
+    <string name="collage_choose_pictures">Необходимо 2 и более изображений</string>
+    <string name="todo_time_invalid1"><font>Неверное время, выберите время после </font></string>
+    <string name="todo_date_invalid1"><font>Неверная дата, выберите дату после </font></string>
+</resources>

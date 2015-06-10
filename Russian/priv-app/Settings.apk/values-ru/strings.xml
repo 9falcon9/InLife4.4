@@ -25,7 +25,7 @@
     <string name="fih_usb_mount">Подключение USB накопителя</string>
     <string name="fih_usb_insert_summary">Вставьте USB накопитель</string>
     <string name="fih_usb_eject">Отключение USB накопителя</string>
-    <string name="fih_usb_eject_summary">Извлекиите USB накопитель</string>
+    <string name="fih_usb_eject_summary">Извлеките USB накопитель</string>
     <string name="fih_settings_g_sensor_ttl">Калибровка G-Sensor</string>
     <string name="fih_settings_e_compass_sensor_ttl">Калибровка E-Compass</string>
     <string name="notification_activity_title">Уведомления</string>
@@ -2207,4 +2207,8 @@
 	<string name="wifi_network_netmask">Маска сети</string>
 	<string name="show_dev_on">Вы стали разработчиком!</string>
     <string name="show_dev_already">Не требуется, вы уже разработчик.</string>
+	<string name="dlg_confirm_usb_storage_unmount_title">Отключить USB накопитель?</string>
+    <string name="dlg_confirm_usb_storage_unmount_text">Если вы отключите USB накопитель, то некоторые используемые вами приложения будут закрыты и могут быть недоступны до следующего подключения USB накопителя.</string>
+    <string name="dlg_error_usb_storage_unmount_text">"Не могу отключить USB накопитель. Попробуйте позже."</string>
+    <string name="usb_storage_unmount_inform_text">USB накопитель будет отключен.</string>
 </resources>

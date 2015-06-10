@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item></item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
+    <string-array name="keyguard_wallpaper_selection">
+        <item>Как на рабочем столе</item>
+        <item>Свои обои</item>
+    </string-array>
+</resources>

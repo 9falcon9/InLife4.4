@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dialog_share">
+        <item>Эл. почта</item>
+        <item>Gmail</item>
+        <item>Сообщения</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="action_list">
+        <item>FM-радио</item>
+        <item>Избранное</item>
+        <item>Записанные файлы</item>
+            </string-array>
+</resources>

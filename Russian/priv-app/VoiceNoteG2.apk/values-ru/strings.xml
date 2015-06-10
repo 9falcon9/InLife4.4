@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fih_voicenote_app_name_txt">Диктофон</string>
+    <string name="fih_voicenote_nodata_in_list_txt">Нет сохраненных записей!</string>
+    <string name="fih_voicenote_no_sdcard_txt">Отсутствует SD-карта</string>
+    <string name="fih_voicenote_opt_record_txt">Запись</string>
+    <string name="fih_voicenote_opt_deleteall_txt">Удалить все</string>
+    <string name="fih_voicenote_opt_play_txt">Воспроизвести</string>
+    <string name="fih_voicenote_opt_stop_txt">Остановить</string>
+    <string name="fih_voicenote_opt_delete_txt">Удаление</string>
+    <string name="fih_voicenote_opt_rename_txt">Переименовать</string>
+    <string name="fih_voicenote_opt_setasringtone_txt">Установить на звонок</string>
+    <string name="fih_voicenote_opt_sendbyemail_txt">Отправить</string>
+    <string name="fih_voicenote_opt_sendbymms_txt">Отправить в SMS</string>
+    <string name="fih_voicenote_dlg_delete_question_txt">Вы действительно хотите удалить «%s»?</string>
+    <string name="fih_voicenote_dlg_deleteall_question_txt">Вы действительно хотите удалить выбранные записи?</string>
+    <string name="fih_voicenote_dlg_deleting_txt">Удаление…</string>
+    <string name="fih_voicenote_dlg_cannot_play_audio_txt">Воспроизведение звука невозможно</string>
+    <string name="fih_voicenote_dlg_rename_inputfilename_txt">Введите имя</string>
+    <string name="fih_voicenote_title_Error_txt">Ошибка</string>
+    <string name="fih_voicenote_notify_set_ringtone_txt">Установить как мелодию звонка «%s»</string>
+    <string name="fih_voicenote_notify_delete_txt">1 запись была удалена</string>
+    <string name="fih_voicenote_notify_invalidname_txt">Имя нового файла содержит недопустимый символ</string>
+    <string name="fih_voicenote_notify_musicplayinbackground_txt">Музыка уже воспроизводится в фоновом режиме!</string>
+    <string name="fih_voicenote_notify_nofilename_txt">Не указано имя файла</string>
+    <string name="fih_voicenote_notify_filename_exist_txt">Файл с таким именем уже есть</string>
+    <string name="fih_voicenote_date_format">гггг-ММ-дд ЧЧ:мм:сс</string>
+    <string name="fih_voicenote_notify_filename_overlength_txt">Имя файла должно быть не длиннее 80 знаков</string>
+    <string name="fih_voicenote_reading_files_txt">Считывание файлов</string>
+    <string name="fih_voicenote_sdcard_busy_txt">SD-карта занята</string>
+    <string name="fih_voicenote_no_space_txt">Недостаточно места</string>
+    <string name="fih_voicenote_am_txt">AM</string>
+    <string name="fih_voicenote_pm_txt">PM</string>
+    <string name="fih_voicenote_no_fileexist_txt">Этот файл не существует</string>
+    <string name="fih_voicenote_notify_filename_nochange_txt">Это точно такое же имя файла</string>
+    <string name="fih_voicenote_notify_filename_nonull_txt">Нужно указать имя файла</string>
+    <string name="fih_voicenote_memory_txt">Недостаточно памяти!</string>
+    <string name="fih_voicenote__already_exist_txt">Файл с точно таким же именем уже есть в этой папке!</string>
+    <string name="fih_voicenote_recorder_list">Список записей</string>
+    <string name="record_your_message">Запишите свое сообщение</string>
+    <string name="message_recorded">Сообщение записано</string>
+    <string name="review_message">Просмотр сообщений</string>
+    <string name="recording">Запись</string>
+    <string name="recording_stopped">Запись остановлена</string>
+    <string name="storage_is_full">Память заполнена</string>
+    <string name="max_length_reached">Достигнута макс. длина</string>
+    <string name="insert_sd_card">Вставьте SD-карту</string>
+    <string name="min_available">Доступно %d мин.</string>
+    <string name="sec_available">Доступно %d сек.</string>
+    <string name="accept">Выполнить</string>
+    <string name="discard">Сброс</string>
+    <string name="button_ok">OK</string>
+    <string name="audio_db_artist_name">Ваши записи</string>
+    <string name="audio_db_album_name">Аудиозаписи</string>
+    <string name="audio_db_playlist_name">Мои записи</string>
+    <string name="error_sdcard_access">Нет доступа к SD-карте</string>
+    <string name="error_app_internal">Внутренняя ошибка приложения</string>
+    <string name="error_mediadb_new_record">Невозможно сохранить записанное аудио</string>
+    <string name="fih_soundrecorder_cannot_record">Запись невозможна</string>
+    <string name="fih_voicenote_recorder">Диктофон</string>
+    <string name="add_new_record">Новая запись</string>
+    <string name="sdcard_missing_message">Вставьте SD-карту</string>
+    <string name="app_name">SoundRecorder</string>
+    <string name="fih_voicenote_play">Воспроизвести</string>
+    <string name="fih_voicenote_pause">Пауза</string>
+    <string name="fih_voicenote_insert_error">Ошибка вставки файла</string>
+    <string name="fih_voicenote_usb_storage">В режиме USB-накопителя SD-карта не доступна</string>
+    <string name="fih_voicenote_sdcard_unread">SD-карта не читается</string>
+    <string name="fih_voicenote_opt_setasalrmringtone_txt">Установить на будильник</string>
+    <string name="fih_voicenote_notify_set_alarm_ringtone_txt">«%s» уст. для будильника</string>
+    <string name="fih_voicenote_status_recording">Идёт запись диктофона</string>
+    <string name="fih_voicenote_status_save">Запись сохранена</string>
+    <string name="fih_voicenote_save">Сохранение</string>
+    <string name="fih_voicenote_save_file">Сохранить запись в телефоне?</string>
+    <string name="fih_voicenote_notify_save">Файл записи сохранен</string>
+    <string name="min_sec_available" formatted="false">Доступно %d мин. %d сек.</string>
+    <string name="fih_voicenote_file_no_exist">Файл не существует</string>
+    <string name="default_label">Будильник</string>
+    <string name="error">Будильник не установлен</string>
+    <string name="dberror">Не удалось установить будильник</string>
+    <string name="fih_voicenote_no_alarms_seleted_txt">Сначала выберите будильник</string>
+    <string name="fih_voicenote_no_alarms_txt">Будильник не найден. Добавьте его.</string>
+    <string name="fih_voicenote_okbtn_txt">OK</string>
+    <string name="fih_voicenote_cancelbtn_txt">Отмена</string>
+    <string name="fih_voicenote_alarm_set_txt">установлено как звук будильника</string>
+    <string name="every_day">Ежедневно</string>
+    <string name="never">Никогда</string>
+    <string name="fih_voicenote_notify_delete">Файл удален</string>
+    <string name="large_conference_mode">AAC (высокое качество)</string>
+    <string name="headset_mode">Режим гарнитуры</string>
+    <string name="fih_voicenote_setting">Формат записи</string>
+    <string name="fih_voicenote_status_paused">Пауза</string>
+    <string name="long_time_mode">AMR (долгое время записи)</string>
+    <string name="recording_3gpp_mode">3GPP (высокое качество)</string>
+    <string name="feedback">Отзыв</string>
+    <string name="rateApp">Оценить приложение</string>
+    <string name="restore_faild_due_to_file_delete_info">Остановите запись перед восстановлением</string>
+    <string name="about">О программе</string>
+    <string name="app_version">Версия</string>
+    <string name="sort">Сортировать</string>
+    <string name="sort_name">По названию</string>
+    <string name="sort_date">По дате</string>
+    <string name="sort_size">По размеру</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="permission_notice_title">Приветствие</string>
+    <string name="permission_notice_txt">"Здравствуйте,
+
+Вас приветствует Диктофон. Перед началом пользования приложением, ознакомьтесь с этим сообщением. Если вы согласны с требованиями, нажмите  «ОК». Если вы НЕ согласны с требованиями, выберите «Выход» для завершения.
+
+Для обеспечения все функций, приложению необходимы следущие разрешения:
+1. Отравка MMS - для передачи голосовых заметок посредством MMS
+"</string>
+    <string name="permission_notice_agree">ОК</string>
+    <string name="permission_notice_exit">Выход</string>
+    <string name="network_notice2">Не показывать снова</string>
+</resources>

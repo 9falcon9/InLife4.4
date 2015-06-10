@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Немедленно</item>
+        <item>5 секунд</item>
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 минута</item>
+        <item>2 минуты</item>
+        <item>5 минут</item>
+        <item>10 минут</item>
+        <item>30 минут</item>
+    </string-array>
+    <string-array name="lock_after_timeout_values">
+        <item>0</item>
+        <item>5000</item>
+        <item>15000</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1800000</item>
+    </string-array>
+</resources>

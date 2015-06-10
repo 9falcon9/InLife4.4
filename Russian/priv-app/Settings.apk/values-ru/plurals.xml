@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="lockpassword_password_requires_letters">
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы в %1$d шагах от получения звания разработчика.</item>
+        <item quantity="one">Вы в %1$d шаге от получения звания разработчика.</item>
+    </plurals>
+	<plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Пароль должен содержать буквы (не менее %d).</item>
         <item quantity="one">Пароль должен содержать хотя бы одну букву.</item>
     </plurals>
@@ -23,5 +27,17 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d).</item>
         <item quantity="one">Пароль должен содержать хотя бы один небуквенный символ.</item>
+    </plurals>
+	<plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d приложений могут читать уведомления</item>
+        <item quantity="one">%d приложение может читать уведомления</item>
+    </plurals>
+	<plurals name="wrong_pin_code">
+        <item quantity="other">Неправильный SIM PIN код, у вас осталось %d попыток.</item>
+        <item quantity="one">Неправильный SIM PIN код, у вас осталась %d попытка до блокировки SIM карты.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s принтеров найдено</item>
+        <item quantity="one">%1$s принтер найден</item>
     </plurals>
 </resources>
