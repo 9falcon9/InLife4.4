@@ -139,7 +139,6 @@
     <string name="pref_contrast_title">Контрастность</string>
     <string name="pref_saturation_title">Насыщенность</string>
     <string name="dialog_ok">OK</string>
-    <string name="pref_camera_coloreffect_default">нет</string>
     <string name="pref_camera_coloreffect_title">Эффект</string>
     <string name="pref_camera_coloreffect_entry_none">Без эффекта</string>
     <string name="pref_camera_coloreffect_entry_mono">Ч/Б</string>
@@ -212,13 +211,11 @@
     <string name="msg_not_enough_space_to_take_burst_photo">Нет места для серии!</string>
     <string name="fih_pref_camera_shutter_sound_default">вкл</string>
     <string name="fih_pref_camera_shutter_sound_title">Звук затвора</string>
-    <string name="pref_camera_autoexposure_default">ТОчка</string>
     <string name="pref_camera_autoexposure_frame_average">Средний</string>
     <string name="pref_camera_autoexposure_title">Замер экспозиции</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Оценочный</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Средневзвешенный</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точка</string>
-    <string name="pref_camera_iso_default">авто</string>
     <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_entry_auto">Авто</string>
     <string name="pref_camera_iso_entry_iso50">ISO50</string>
@@ -228,7 +225,6 @@
     <string name="pref_camera_iso_entry_iso800">ISO800</string>
     <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
     <string name="pref_camera_antibanding_title">Подавление мерцания</string>
-    <string name="pref_camera_antibanding_default">авто</string>
     <string name="pref_camera_antibanding_entry_0">Выкл</string>
     <string name="pref_camera_antibanding_entry_1">50 Hz</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
@@ -384,11 +380,8 @@
     <string name="pref_shooting_mode_description_weathercamera">Фото с информацией о погоде.</string>
     <string name="reset_picture_size_msg">Размер фото был сброшен</string>
     <string name="pref_camera_hfr_title">Видео с выс. FPS</string>
-    <string name="pref_camera_hfr_default">выкл</string>
     <string name="pref_camera_hfr_entry_off">Выкл</string>
     <string name="pref_camera_hfr_entry_on">Вкл</string>
-    <string name="pref_camera_hfr_value_off">выкл</string>
-    <string name="pref_camera_hfr_value_on">вкл</string>
     <string name="string_secs">сек</string>
     <string name="pref_camera_smile_level_title">Настройка уровня улыбки </string>
     <string name="pref_camera_smile_level_entry_0">Уровень 0</string>
