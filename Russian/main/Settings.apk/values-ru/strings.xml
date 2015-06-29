@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="wifi_network_netmask">Маска сети</string>
     <string name="wifi_priority_label">Приоритет</string>
     <string name="wifi_priority_settings_label">Настройки приоритета</string>
     <string name="wifi_configured_ap_list">Сохраненные сети</string>
@@ -28,6 +29,45 @@
     <string name="fih_usb_eject_summary">Извлеките USB накопитель</string>
     <string name="fih_settings_g_sensor_ttl">Калибровка G-Sensor</string>
     <string name="fih_settings_e_compass_sensor_ttl">Калибровка E-Compass</string>
+    <string name="fih_fakenumber">0123456789</string>
+    <string name="fih_fakeincomingcall">Входящий вызов</string>
+    <string name="fih_motion_turn_over_help_1">Переверните телефон</string>
+    <string name="fih_motion_turn_over_help_2">Переверните телефон сильнее</string>
+    <string name="fih_motion_turn_over_reject_call_help">При входящем вызове переверните телефон для отбоя.</string>
+    <string name="fih_motion_pickup_quiet_ring_help">Положите телефон горизонтально, начнется входящий вызов. Поднимите телефон для отключения звука вызова.</string>
+    <string name="motion_help_Try">Попробовать</string>
+    <string name="motion_help_Cancel">Отмена</string>
+    <string name="try_smart_alert">Подняв телефон вы будете уведомлены о пропущенных вызовах и сообщениях вибрацией.</string>
+    <string name="try_smart_alert_title">Попробовать умное напоминание</string>
+    <string name="try_shake_song_title">Попробовать переход к следующей песне встряхиванием</string>
+    <string name="try_shakenextsong">Переход к следующей песне встряхиванием</string>
+    <string name="songone">Песня 1</string>
+    <string name="songtwo">Песня 2</string>
+    <string name="playing">сейчас играет</string>
+    <string name="smart_alert_open_screen_content">Поднимите телефон. Он напомнит вам о пропущенных звонках или сообщениях.</string>
+    <string name="smart_alert_dialog_up">После того, как вы положите телефон экран выключится.</string>
+    <string name="smart_alert_dialog_middel">Поднимите его снова, он напомнит вам о пропущенных звонках или сообщениях вибрацией.</string>
+    <string name="fih_try_direct_call_title">Попробовать автоматический вызов &amp; ответ</string>
+    <string name="fih_try_direct_call_dailog_help">Поднесите телефон к лицу для автоматического вызова.</string>
+    <string name="fih_fake_text_outgoingcall">Исходящий вызов</string>
+    <string name="fih_fake_text_hello">Привет!</string>
+    <string name="fih_fake_text_callyou">Позвоню тебе!</string>
+    <string name="fih_direct_call_gyroscope_fail_help">Поднимите телефон и поднесите его к уху.</string>
+    <string name="fih_direct_call_proximity_fail_help">Поднесите телефон ближке к уху.</string>
+    <string name="motion_settings_category_title">Настройки управления жестами</string>
+    <string name="motion_tutor_category_title">ОБУЧЕНИЕ</string>
+    <string name="motion_settings_title">Жесты</string>
+    <string name="motion_turn_over_reject_call_title">Отклонен. выз. переворотом</string>
+    <string name="motion_volume_quiet_pickup_title">Откл. звонка при поднятии телефона</string>
+    <string name="motion_direct_call_title">Автом. вызов &amp; ответ</string>
+    <string name="motion_smart_alert_title">Умное напоминание</string>
+    <string name="motion_shake_next_song_title">Переход к след. песне встрях.</string>
+    <string name="motion_settings_help">Как использовать жесты</string>
+    <string name="motion_turn_over_reject_call_help">Для отклонения входящего вызова переверните телефон.</string>
+    <string name="motion_volume_quiet_pickup_help">Для отключения звука входящего вызова поднимите телефон.</string>
+    <string name="motion_direct_call_help">Для ответа на входящий вызов или совершения исходящего вызова на номер, отображаемый сейчас в истории вызовов, данных контакта или сообщении поднесите телефон к уху.</string>
+    <string name="motion_smart_alert_help">При поднятии телефона он уведомит вас о пропущенных звонках или сообщениях вибрацией.</string>
+    <string name="motion_shake_next_song_help">Для переключения на следующую песню встряхните телефон.</string>
     <string name="notification_activity_title">Уведомления</string>
     <string name="notification_activity_description">Настройка уведомлений в строке состояния</string>
     <string name="feature_title">Скрыть уведомление</string>
@@ -41,9 +81,14 @@
     <string name="sim2_data_enabled">Включить на SIM2</string>
     <string name="ringtone_sim1_title">Сигнал вызова (SIM1)</string>
     <string name="ringtone_sim2_title">Сигнал вызова (SIM2)</string>
+    <string name="zzz_fih_tether_settings_title_all">Режим модема</string>
     <string name="permission_control">Управление разрешениями</string>
     <string name="permission_control_summary">Настройка разрешений для обеспечения безопасности и приватности</string>
     <string name="lso_sim_management">Управление SIM-картами</string>
+    <string name="dlg_confirm_usb_storage_unmount_title">Отключить USB накопитель?</string>
+    <string name="dlg_confirm_usb_storage_unmount_text">Если вы отключите USB накопитель, то некоторые используемые вами приложения будут закрыты и могут быть недоступны до следующего подключения USB накопителя.</string>
+    <string name="dlg_error_usb_storage_unmount_text">Не могу отключить USB накопитель. Попробуйте позже.</string>
+    <string name="usb_storage_unmount_inform_text">USB накопитель будет отключен.</string>
     <string name="fih_Wifi_wifidisplay_on">Беспроводной экран и WLAN включен</string>
     <string name="fih_Wifi_wifidisplay_off">Беспроводной экран и WLAN выключен</string>
     <string name="fih_Wifi_wifidisplay_off_title">Включите для поиска беспроводных экранов</string>
@@ -51,6 +96,8 @@
     <string name="no">Нет</string>
     <string name="create">Создать</string>
     <string name="device_info_default">Неизвестно</string>
+    <string name="show_dev_on">Вы стали разработчиком!</string>
+    <string name="show_dev_already">Не требуется, вы уже разработчик.</string>
     <string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
     <string name="header_category_device">УСТРОЙСТВО</string>
     <string name="header_category_personal">ЛИЧНЫЕ ДАННЫЕ</string>
@@ -889,7 +936,7 @@
     <string name="location_mode_screen_title">Режим определения местоположения</string>
     <string name="location_mode_high_accuracy_description">Использовать GPS, Wi-Fi и мобильные сети для определения местоположения</string>
     <string name="location_mode_battery_saving_description">Использовать Wi-Fi и мобильные сети для определения местоположения</string>
-    <string name="location_mode_sensors_only_description">Использовать только спутники для определения местоположения </string>
+    <string name="location_mode_sensors_only_description">Использовать только спутники для определения местоположения</string>
     <string name="location_loading_injected_setting">Получение…</string>
     <string name="location_category_enhanced_location">Улучшенное местоположение</string>
     <string name="location_network_based">Wi-Fi и мобильные сети</string>
@@ -1221,8 +1268,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<li><ul>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
+"<ul><li>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -2164,51 +2211,4 @@
     <string name="profiles_indoor_summary">Режим «В помещении»</string>
     <string name="fm_volume_title">FM</string>
     <string name="incall_volume_title">Громкость во время вызова</string>
-	<string name="zzz_fih_tether_settings_title_all">Режим модема</string>
-	<string name="fih_fakenumber">0123456789</string>
-    <string name="fih_fakeincomingcall">Входящий вызов</string>
-    <string name="fih_motion_turn_over_help_1">Переверните телефон</string>
-    <string name="fih_motion_turn_over_help_2">Переверните телефон сильнее</string>
-    <string name="fih_motion_turn_over_reject_call_help">При входящем вызове переверните телефон для отбоя.</string>
-    <string name="fih_motion_pickup_quiet_ring_help">Положите телефон горизонтально, начнется входящий вызов. Поднимите телефон для отключения звука вызова.</string>
-    <string name="motion_help_Try">Попробовать</string>
-    <string name="motion_help_Cancel">Отмена</string>
-    <string name="try_smart_alert">Подняв телефон вы будете уведомлены о пропущенных вызовах и сообщениях вибрацией.</string>
-    <string name="try_smart_alert_title">Попробовать умное напоминание</string>
-    <string name="try_shake_song_title">Попробовать переход к следующей песне встряхиванием</string>
-    <string name="try_shakenextsong">Переход к следующей песне встряхиванием</string>
-    <string name="songone">Песня 1</string>
-    <string name="songtwo">Песня 2</string>
-    <string name="playing">сейчас играет</string>
-    <string name="smart_alert_open_screen_content">Поднимите телефон. Он напомнит вам  о пропущенных звонках или сообщениях.</string>
-    <string name="smart_alert_dialog_up">После того, как вы положите телефон экран выключится.</string>
-    <string name="smart_alert_dialog_middel">Поднимите его снова, он напомнит вам  о пропущенных звонках или сообщениях вибрацией.</string>
-    <string name="fih_try_direct_call_title">Попробовать автоматический вызов &amp; ответ</string>
-    <string name="fih_try_direct_call_dailog_help">Поднесите телефон к лицу для автоматического вызова.</string>
-    <string name="fih_fake_text_outgoingcall">Исходящий вызов</string>
-    <string name="fih_fake_text_hello">Привет!</string>
-    <string name="fih_fake_text_callyou">Позвоню тебе!</string>
-    <string name="fih_direct_call_gyroscope_fail_help">Поднимите телефон и поднесите его к уху.</string>
-    <string name="fih_direct_call_proximity_fail_help">Поднесите телефон ближке к уху.</string>
-    <string name="motion_settings_category_title">Настройки управления жестами</string>
-    <string name="motion_tutor_category_title">ОБУЧЕНИЕ</string>
-    <string name="motion_settings_title">Жесты</string>
-    <string name="motion_turn_over_reject_call_title">Отклонен. выз. переворотом</string>
-    <string name="motion_volume_quiet_pickup_title">Откл. звонка при поднятии телефона</string>
-    <string name="motion_direct_call_title">Автом. вызов &amp; ответ</string>
-    <string name="motion_smart_alert_title">Умное напоминание</string>
-    <string name="motion_shake_next_song_title">Переход к след. песне встрях.</string>
-    <string name="motion_settings_help">Как использовать жесты</string>
-    <string name="motion_turn_over_reject_call_help">Для отклонения входящего вызова переверните телефон.</string>
-    <string name="motion_volume_quiet_pickup_help">Для отключения звука входящего вызова поднимите телефон.</string>
-    <string name="motion_direct_call_help">Для ответа на входящий вызов или совершения исходящего вызова на номер, отображаемый сейчас в истории вызовов, данных контакта или сообщении поднесите телефон к уху.</string>
-    <string name="motion_smart_alert_help">При поднятии телефона он уведомит вас о пропущенных звонках или сообщениях вибрацией.</string>
-    <string name="motion_shake_next_song_help">Для переключения на следующую песню встряхните телефон.</string>
-	<string name="wifi_network_netmask">Маска сети</string>
-	<string name="show_dev_on">Вы стали разработчиком!</string>
-    <string name="show_dev_already">Не требуется, вы уже разработчик.</string>
-	<string name="dlg_confirm_usb_storage_unmount_title">Отключить USB накопитель?</string>
-    <string name="dlg_confirm_usb_storage_unmount_text">Если вы отключите USB накопитель, то некоторые используемые вами приложения будут закрыты и могут быть недоступны до следующего подключения USB накопителя.</string>
-    <string name="dlg_error_usb_storage_unmount_text">"Не могу отключить USB накопитель. Попробуйте позже."</string>
-    <string name="usb_storage_unmount_inform_text">USB накопитель будет отключен.</string>
 </resources>

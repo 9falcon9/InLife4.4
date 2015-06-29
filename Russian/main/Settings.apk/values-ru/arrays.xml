@@ -512,7 +512,7 @@
     <string-array name="vpn_states">
         <item>Отключен</item>
         <item>Инициализация…</item>
-        <item>Подлючение…</item>
+        <item>Подключение…</item>
         <item>Подключен</item>
         <item>Перерыв</item>
         <item>Не удалось подкл.</item>
