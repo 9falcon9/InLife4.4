@@ -592,8 +592,8 @@
     <string name="puk2_blocked">PUK2 заблокирован!</string>
     <string name="pin2_attempts">Осталось попыток: %d</string>
     <string name="pin2_unblocked">PIN2 разблокирован!</string>
-    <string name="card_title_unconditionalCF">Переадресация без условий включена</string>
-    <string name="card_title_conditionalCF">Переадресация с условиями включена</string>
+    <string name="card_title_unconditionalCF">Безусловная переадресация включена</string>
+    <string name="card_title_conditionalCF">Условная переадресация включена</string>
     <string name="card_title_MOcall_forwarding">Исходящий переадресованный вызов</string>
     <string name="card_title_calliswaiting">Ожидание вызова</string>
     <string name="card_title_cugcall">CUG вызов</string>
