@@ -20,4 +20,8 @@
     <plurals name="recipient_count">
         <item quantity="other">%1$s чел.</item>
     </plurals>
+	<plurals name="fih_message_view_selected_message_count">
+        <item quantity="other">%d выбраны</item>
+        <item quantity="one">%d выбрано</item>
+	</plurals>
 </resources>

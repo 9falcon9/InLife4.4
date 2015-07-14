@@ -36,4 +36,8 @@
         <item quantity="other">Голосовые сообщения: %1$d</item>
         <item quantity="one">Голосовая почта</item>
     </plurals>
+	<plurals name="fih_num_contacts_in_group">
+        <item quantity="other">%1$d контактов%2$s</item>
+        <item quantity="one">%1$d контакт%2$s</item>
+    </plurals>
 </resources>
