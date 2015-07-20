@@ -499,4 +499,6 @@
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
     <string name="lock_setup">Настройка выполнена.</string>
+	<string name="fih_discard_message_reason">Ваше сообщение не будет отправлено, адреса получатели неверны.</string>
+    <string name="fih_discard_message_reason_empty">Ваше сообщение не будет отправлено, нет получателей.</string>
 </resources>

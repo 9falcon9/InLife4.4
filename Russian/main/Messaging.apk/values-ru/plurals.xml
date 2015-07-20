@@ -24,4 +24,8 @@
         <item quantity="other">%d выбраны</item>
         <item quantity="one">%d выбрано</item>
 	</plurals>
+	<plurals name="fih_notification_newmsg_cnt">
+        <item quantity="other">%d новых сообщений</item>
+        <item quantity="one">Новое сообщение</item>
+    </plurals>
 </resources>
