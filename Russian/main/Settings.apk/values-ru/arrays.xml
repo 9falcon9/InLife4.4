@@ -530,10 +530,10 @@
         <item>Разрешать всегда</item>
     </string-array>
     <string-array name="ram_states">
-        <item>normal</item>
-        <item>moderate</item>
-        <item>low</item>
-        <item>critical</item>
+        <item>нормальное</item>
+        <item>среднее</item>
+        <item>низкое</item>
+        <item>критическое</item>
     </string-array>
     <string-array name="multi_sim_entries">
         <item>План 1</item>

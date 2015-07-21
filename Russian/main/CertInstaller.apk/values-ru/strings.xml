@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one_wapi_ascrt">WAPI AS сертификат</string>
+    <string name="one_wapi_usercrt"> WAPI сертификат пользователя</string>
+    <string name="app_name">Установка сертификата</string>
+    <string name="pick_file_title">Выбрать сертификат</string>
+    <string name="pkcs12_password_dialog_title">Извлечь сертификата</string>
+    <string name="extracting_pkcs12">Извлечение…</string>
+    <string name="pkcs12_file_password_dialog_title">Извлечь из %s</string>
+    <string name="name_credential_dialog_title">Название сертификата</string>
+    <string name="credential_name">Название сертификата:</string>
+    <string name="credential_password">Введите пароль для извлечение сертификатов.</string>
+    <string name="credential_info">Пакет содержит:</string>
+    <string name="p12_description">Certificates in PKCS12 keystore.</string>
+    <string name="one_userkey">ключ пользователя</string>
+    <string name="one_usercrt">сертификат пользователя</string>
+    <string name="one_cacrt">CA сертификат</string>
+    <string name="n_cacrts">%d CA сертификатов</string>
+    <string name="password_error">Введите правильный пароль.</string>
+    <string name="password_empty_error">Введите пароль.</string>
+    <string name="name_empty_error">Введите имя.</string>
+    <string name="name_char_error">Имя должно содержать только буквы и цифры.</string>
+    <string name="storage_error">"Невозможно сохранить сертификат. Нажмите OK для повтора."</string>
+    <string name="unable_to_save_cert">"Невозможно сохранить сертификат. Хранилище недоступно или не инициализировано."</string>
+    <string name="cert_not_saved">Сертификат не установлен.</string>
+    <string name="no_cert_to_saved">Нет сертификата для установки.</string>
+    <string name="invalid_cert">Неверный сертификат.</string>
+    <string name="cert_is_added">%s установлен.</string>
+    <string name="cert_too_large_error">"Невозможно установить. Размер сертификата слишком большой."</string>
+    <string name="cert_missing_error">"Невозможно установить. Файл сертификата не найден."</string>
+    <string name="cert_read_error">"Невозможно установить. Файл сертификата не читается."</string>
+    <string name="no_cert_file_found">На SD-карте нет сертификатов.</string>
+    <string name="sdcard_not_present">"Нет SD-карты.."</string>
+    <string name="only_primary_user_allowed">Только владелец устройства может установить сертификат.</string>
+    <string name="credential_usage_label">Использовать для:</string>
+</resources>

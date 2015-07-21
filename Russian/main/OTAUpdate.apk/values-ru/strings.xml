@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обновление системы</string>
+    <string name="resume">Возобновить</string>
+    <string name="starting">Начало</string>
+    <string name="pause">Приостановить</string>
+    <string name="file_not_found">Файл не найден</string>
+    <string name="remote_file_fail">Не удается получить доступ к удаленному файлу. Повторите попытку позже.</string>
+    <string name="unavailable">(Недоступно)</string>
+    <string name="no_description">(Нет описания)</string>
+    <string name="login_fail">Сбой при входе на сервер. Повторите попытку позже.</string>
+    <string name="login_fail_short">Сбой при входе в систему</string>
+    <string name="get_service_url_fail">Сетевое подключение не стабильно (Сбой получения URL-адреса службы). Повторите попытку позже.</string>
+    <string name="get_access_right_fail">Сетевое подключение не стабильно (Сбой получения доступа). Повторите попытку позже.</string>
+    <string name="without_access_right">Без права доступа на сервер</string>
+    <string name="query_sw_fail">Не удалось отправить запрос на сведения о ПО</string>
+    <string name="query_sw_incorrect">Результат не правильный</string>
+    <string name="space_not_enough">Недостаточно места </string>
+    <string name="no_update_available">Новейшие обновления недоступны</string>
+    <string name="update_not_ready">На сервере нет обновлений. Повторите попытку позже.</string>
+    <string name="mbytes">МБ</string>
+    <string name="last_check">Последняя проверка</string>
+    <string name="last_result">Последний результат</string>
+    <string name="none">(Нет)</string>
+    <string name="next_check">Проверить время</string>
+    <string name="check_now_label">Проверить сейчас</string>
+    <string name="header_check_interval_setting">Интервал автоматической проверки</string>
+    <string name="header_download_setting">Настройки загрузки</string>
+    <string name="header_check_status">Статус проверки</string>
+    <string name="header_next_check">Следующая автоматическая проверка</string>
+    <string name="checking">Проверка...</string>
+    <string name="verifying">Выполняется проверка...</string>
+    <string name="header_verifying_update_file">Выполняется проверка файла обновления...</string>
+    <string name="unzipping">Извлечение из архива...</string>
+    <string name="header_unzipping_update_file">Извлечение из архива файла обновления...</string>
+    <string name="please_wait">Подождите</string>
+    <string name="header_starting_to_download_file">Начало загрузки файла...</string>
+    <string name="header_system_update_available">Доступно обновление системы</string>
+    <string name="system_update_available_thanks">Благодарим вас за установку обновления ПО.</string>
+    <string name="new_version_desc_prompt">Новая версия включает:</string>
+    <string name="header_attention">Внимание!</string>
+    <string name="data_fee_warning">Использование данной услуги по подключению мобильной сети может повлечь дополнительные расходы!</string>
+    <string name="download_update_now">Загрузить обновления сейчас?</string>
+    <string name="header_downloading_update">Загрузка обновления</string>
+    <string name="header_install_system_software_update">Установить обновление ПО системы</string>
+    <string name="msg_install_system_software_update_1">"Установить следующее ПО системы?
+Обновление системы до"</string>
+    <string name="msg_install_system_software_update_2">"Вы не сможете пользоваться устройством или посылать экстренные вызовы во время обновления.
+
+Извлечение аккумулятора или карты SD во время обновления ПО может привести к непредсказуемым результатам."</string>
+    <string name="button_install_now">Установить сейчас</string>
+    <string name="button_install_later">Установить позже</string>
+    <string name="button_discard">Отменить</string>
+    <string name="msg_system_is_downloading">Устройство выполняет загрузку файла для обновления системы</string>
+    <string name="header_unable_to_connect">Не удается подключить</string>
+    <string name="msg_unable_to_connect">Для использования данного приложения необходимо сетевое подключение. Включите мобильную сеть или Wi-Fi в Настройках.</string>
+    <string name="msg_unable_to_connect_short">Нет подключения к сети</string>
+    <string name="header_download_later">Загрузить позже</string>
+    <string name="msg_download_later">Устройство будет выполнять проверку на обновления системы в %s. Вы можете установить флажок для обновления системы вручную во вкладке Обновление системы.</string>
+    <string name="button_reset">Сброс</string>
+    <string name="button_settings">Настройки</string>
+    <string name="header_system_is_update">Обновлений не обнаружено</string>
+    <string name="msg_system_is_update">Новейшие обновления недоступны.</string>
+    <string name="msg_system_is_update_short">Нет обновлений</string>
+    <string name="msg_no_sd_card">Для обновления системы нужна карта SD. Вставьте карту SD.</string>
+    <string name="msg_no_sd_card_short">Нет карты SD</string>
+    <string name="msg_no_available_size_card">Для файла обновления необходимо %s МБ свободного места. Удалите некоторые файлы на карте SD.</string>
+    <string name="msg_no_available_size_card_short">Свободного места недостаточно</string>
+    <string name="msg_do_not_remove_sd_card">Не извлекайте карту SD</string>
+    <string name="title_system_update_ready">Готово обновление системы</string>
+    <string name="msg_system_update_ready">Нажмите, чтобы установить обновление системы</string>
+    <string name="msg_system_battery_too_low">"Обновление системы готово, но заряд аккумулятора слишком мал для установки. Зарядите аккумулятор и выполните установку позже. 
+
+Уровень заряда аккумулятора должен быть более 35%%.
+Текущий уровень заряда аккумулятора: %s%%."</string>
+    <string name="msg_system_battery_too_low_short">Заряда аккумулятора не хватит</string>
+    <string name="header_cancel_install">Отменить установку</string>
+    <string name="msg_cancel_install">Это приведет к прекращению процесса обновления, и файл обновления не будет сохранен.</string>
+    <string name="header_install_later">Установить позже</string>
+    <string name="msg_install_later">Вы можете начать установку со строки уведомлений в любое время.</string>
+    <string name="msg_remove_sd_card">Не удается записать загруженный файл на карту SD. Проверьте карту SD.</string>
+    <string name="msg_remove_sd_card_short">Не удается получить доступ к карте SD</string>
+    <string name="msg_verify_fail">Не удается выполнить проверку загруженного файла.</string>
+    <string name="msg_verify_fail_short">Сбой проверки</string>
+    <string name="msg_unzip_fail">Не удается извлечь загруженный файл из архива.</string>
+    <string name="msg_unzip_fail_short">Сбой извлечения из архива</string>
+    <string name="software_version_is_not_support_ota">Данная версия ПО не поддерживает обновление OTA.</string>
+    <string name="software_version_is_not_support_ota_short">Не поддерживает обновление OTA</string>
+    <string name="stop">Остановить</string>
+    <string name="hide">Скрыть</string>
+    <string name="data_size">Размер данных</string>
+    <string name="required_size">Необходимое свободное место</string>
+    <string name="network_not_match">Тип сети не соответствует. Повторите попытку после изменения системы.</string>
+    <string name="network_not_match_short">Сеть не соответствует</string>
+    <string name="without_reboot_api">Не удается выполнить перезагрузку без API. Перезагрузитесь, чтобы вручную восстановить активные обновления.</string>
+    <string name="update_complete">Обновление системы завершено.</string>
+    <string name="update_complete_short">Обновление завершено</string>
+    <string name="file_removed">Загруженный файл удален. Загрузите его еще раз.</string>
+    <string name="file_removed_short">Загруженный файл удален</string>
+    <string name="file_not_match">Загруженный файл не соответствует, как ожидалось . Загрузите его еще раз.</string>
+    <string name="file_not_match_short">Файл не соответствует</string>
+    <string name="menu_url">Изменить URL-адрес службы</string>
+    <string name="menu_enabled">Только включенные программы</string>
+    <string name="msg_unable_to_connect_wlan">Для использования данного приложения необходимо сетевое подключение. Включите мобильную сеть или WLAN в Настройках.</string>
+    <string name="msg_unable_to_connect_2">Для использования данного приложения необходимо сетевое подключение. Включите сеть в Настройках.</string>
+    <string name="msg_remove_sd_card_2">Не удается записать загруженный файл в хранилище данных. Проверьте хранилище.</string>
+    <string name="msg_remove_sd_card_short_2">Не удается получить доступ к хранилищу данных</string>
+    <string name="msg_no_available_size_card_2">Для файла обновления необходимо %s МБ свободного места. Удалите некоторые файлы в хранилище данных.</string>
+    <string name="msg_install_system_software_update_3">"Вы не сможете пользоваться устройством во время обновления.
+
+Отключение питания или удаление загруженного файла во время обновления ПО может привести к непредсказуемым результатам."</string>
+    <string name="msg_install_system_software_update_4">"Вы не сможете пользоваться устройством или посылать экстренные вызовы во время обновления.
+
+Отключение питания или удаление загруженного файла во время обновления ПО может привести к непредсказуемым результатам."</string>
+    <string name="using_internal_storage">Использование внутренней памяти</string>
+    <string name="using_external_storage">Использование внешнего накопителя</string>
+    <string name="header_auto_download">Автозагрузка</string>
+    <string name="msg_agree_message">"
+
+
+Существует вероятность стирания данных пользователя при обновлении. При необходимости сделайте резервную копию данных перед обновлением системы"</string>
+    <string name="msg_upgrade_agree">Прочитать и согласиться</string>
+    <string name="header_server_push">Получать уведомления сервера</string>
+    <string name="header_setting">Настройки</string>
+    <string name="new_app_name">Обновление ПО</string>
+    <string name="later">Позже</string>
+    <string name="update">Обновить</string>
+    <string name="update_summary">Проверить наличие обновлений</string>
+    <string name="wifi_only">Только Wi-Fi</string>
+    <string name="wlan_only">Только БЛВС</string>
+    <string name="wifi_only_summary">Загрузить обновления при наличии Wi-Fi-соединения</string>
+    <string name="wlan_only_summary">Загрузить обновления при наличии БЛВС-соединения</string>
+    <string name="auto_update">Автообновление</string>
+    <string name="auto_update_summary">Автопроверка наличия обновлений</string>
+    <string name="new_data_fee_warning">Проверка и загрузка обновлений может потребовать дополнительных расходов. Загрузите обновления через Wi-Fi, если возможно</string>
+    <string name="wlan_data_fee_warning">Проверка и загрузка обновлений может потребовать дополнительных расходов. Загрузите обновления через БЛВС, если возможно</string>
+    <string name="upgrade_fail">Сбой обновления</string>
+    <string name="msg_storage_encrypted">Системное обновление не поддерживается, т.к. устройство защищено шифром</string>
+    <string name="installing">Выполняется установка...</string>
+    <string name="install_complete">Установка завершена</string>
+    <string name="install_fail">Ошибка установки</string>
+    <string name="install_all">Установить все</string>
+    <string name="install">Установить</string>
+    <string name="download_fail">Ошибка загрузки</string>
+    <string name="installed_version">Установленная версия</string>
+    <string name="update_available">Доступно обновление</string>
+    <string name="apk_update_available">Доступно обновление для приложения</string>
+    <string name="recommend">Рекомендовано</string>
+    <string name="roaming_restriction">Ограничения в роуминге</string>
+    <string name="roaming_restriction_summary">Из-за ограничений в роуминге обновление невозможно</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="check_interval_choices">
+        <item>Выкл.</item>
+        <item>Ежедневно</item>
+        <item>Еженедельно</item>
+        <item>Ежемесячно</item>
+    </string-array>
+    <string-array name="check_interval_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="download_setting">
+        <item>Спрашивать меня каждый раз</item>
+        <item>Загрузить через мобильную сеть или Wi-Fi</item>
+        <item>Загрузить только через Wi-Fi</item>
+    </string-array>
+    <string-array name="download_setting_after_checking">
+        <item>Загрузить через мобильную сеть или Wi-Fi</item>
+        <item>Загрузить только через Wi-Fi</item>
+    </string-array>
+    <string-array name="download_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="download_setting_after_check">
+        <item>Загрузить через мобильную сеть или Wi-Fi</item>
+        <item>Загрузить только через Wi-Fi</item>
+    </string-array>
+    <string-array name="download_setting_values_new">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="download_setting_new">
+        <item>Спрашивать меня каждый раз</item>
+        <item>Загрузить через любую доступную сеть</item>
+        <item>Загрузить только через Wi-Fi</item>
+        <item>Загрузить через мобильную сеть или Wi-Fi</item>
+        <item>Загрузить через WiMAX или Wi-Fi</item>
+    </string-array>
+    <string-array name="download_setting_after_checking_new">
+        <item>Загрузить через любую доступную сеть</item>
+        <item>Загрузить только через Wi-Fi</item>
+        <item>Загрузить через мобильную сеть или Wi-Fi</item>
+        <item>Загрузить через WiMAX или Wi-Fi</item>
+    </string-array>
+    <string-array name="download_setting_wlan">
+        <item>Спрашивать меня каждый раз</item>
+        <item>Загрузить через мобильную сеть или WLAN</item>
+        <item>Загрузить только через WLAN</item>
+    </string-array>
+    <string-array name="download_setting_new_wlan">
+        <item>Спрашивать меня каждый раз</item>
+        <item>Загрузить через любую доступную сеть</item>
+        <item>Загрузить только через WLAN</item>
+        <item>Загрузить через мобильную сеть или WLAN</item>
+        <item>Загрузить через WiMAX или WLAN</item>
+    </string-array>
+    <string-array name="server_push_choices">
+        <item>Вык</item>
+        <item>Тол.получ.увед.</item>
+        <item>Получить уведом. и автом. загрузить</item>
+    </string-array>
+    <string-array name="server_push_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
