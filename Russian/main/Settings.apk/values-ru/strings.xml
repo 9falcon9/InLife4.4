@@ -29,6 +29,9 @@
     <string name="fih_usb_eject_summary">Извлеките USB накопитель</string>
     <string name="fih_settings_g_sensor_ttl">Калибровка G-Sensor</string>
     <string name="fih_settings_e_compass_sensor_ttl">Калибровка E-Compass</string>
+    <string name="camera_firmware_version">Версия прошивки камеры</string>
+    <string name="usb_charge_only_title">Только зарядка</string>
+    <string name="usb_donot_remind_title">Больше не напоминать</string>
     <string name="fih_fakenumber">0123456789</string>
     <string name="fih_fakeincomingcall">Входящий вызов</string>
     <string name="fih_motion_turn_over_help_1">Переверните телефон</string>
@@ -76,9 +79,14 @@
     <string name="hide_in_statusbar_title">Скрыть уведомление в строке состояния</string>
     <string name="statusbar_list_null_below">Текущий список пуст. Добавьте приложения из списка ниже.</string>
     <string name="statusbar_list_null_above">Текущий список пуст. Добавьте приложения из списка выше.</string>
+    <string name="fih_hw_version">Аппаратная версия</string>
     <string name="data_enabled">Передача данных</string>
     <string name="sim1_data_enabled">Включить на SIM1</string>
     <string name="sim2_data_enabled">Включить на SIM2</string>
+    <string name="touch_firmware_version">Версия прошивки тачскрина</string>
+    <string name="versioninfo_hardware_version">Аппаратная версия</string>
+    <string name="versioninfo_software_version">Программная версия</string>
+    <string name="zzz_subs_settings">Настройка блокировки SIM-карт</string>
     <string name="ringtone_sim1_title">Сигнал вызова (SIM1)</string>
     <string name="ringtone_sim2_title">Сигнал вызова (SIM2)</string>
     <string name="zzz_fih_tether_settings_title_all">Режим модема</string>
@@ -821,7 +829,7 @@
     <string name="storage_title_usb">USB-подключение к компьютеру</string>
     <string name="usb_connection_category">Подключить как</string>
     <string name="usb_mtp_title">Медиа-устройство (MTP)</string>
-    <string name="usb_mtp_summary">Позволяет передавать файлы внутренней  и внешней SD карты в Windows</string>
+    <string name="usb_mtp_summary">Позволяет передавать файлы внутренней и внешней SD карты в Windows</string>
     <string name="usb_ptp_title">Камера (PTP)</string>
     <string name="usb_ptp_summary">Позволяет передавать фотографии с помощью программного обеспечения камеры, а также передавать любые файлы на компьютеры, которые не поддерживают MTP</string>
     <string name="usb_label_installer_cd">Установить инструменты передачи файлов</string>
@@ -1237,6 +1245,7 @@
     <string name="allow_mock_location_summary">Разрешить использование фиктивных местоположений</string>
     <string name="adb_warning_title">Разрешить отладку по USB?</string>
     <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
+    <string name="adb_keys_warning_message">Отозвать авторизацию отладки по USB для всех компьютеров?</string>
     <string name="dev_settings_warning_title">Изменение настроек</string>
     <string name="dev_settings_warning_message">Только для разработчиков. Изменение этих настроек может привести к сбоям или неправильной работе устройства и приложений.</string>
     <string name="verify_apps_over_usb_title">Пров. при установке через USB</string>
@@ -1268,8 +1277,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<ul><li>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
+"<li><ul>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -1394,6 +1403,29 @@
     <string name="menu_stats_refresh">Обновить</string>
     <string name="process_kernel_label">Ядро Android</string>
     <string name="process_mediaserver_label">Сервер медиа</string>
+    <string name="process_stats_summary_title">Статистика процессов</string>
+    <string name="process_stats_summary">Статистика работающих процессов</string>
+    <string name="app_memory_use">Использование памяти</string>
+    <string name="process_stats_total_duration">%1$s приложения за %2$s</string>
+    <string name="process_stats_type_background">Фоновые</string>
+    <string name="process_stats_type_foreground">Работающие</string>
+    <string name="process_stats_type_cached">Кэшированные</string>
+    <string name="process_stats_memory_status">Состояние памяти %1$s</string>
+    <string name="process_stats_avg_ram_use">Среднее использование RAM</string>
+    <string name="process_stats_max_ram_use">Максимальное использование RAM</string>
+    <string name="process_stats_run_time">Время работы</string>
+    <string name="services_subtitle">Службы</string>
+    <string name="menu_proc_stats_duration">Продолжительность</string>
+    <string name="menu_duration_3h">3 часа</string>
+    <string name="menu_duration_6h">6 часов</string>
+    <string name="menu_duration_12h">12 часов</string>
+    <string name="menu_duration_1d">1 день</string>
+    <string name="menu_show_system">Показать системные</string>
+    <string name="menu_use_uss">Ипольз. Uss</string>
+    <string name="menu_proc_stats_type">Тип процессов</string>
+    <string name="menu_proc_stats_type_background">Фоновые</string>
+    <string name="menu_proc_stats_type_foreground">Работающие</string>
+    <string name="menu_proc_stats_type_cached">Кэшированные</string>
     <string name="voice_input_output_settings">Голосовой ввод и вывод</string>
     <string name="voice_input_output_settings_title">Настройки голосового ввода и вывода</string>
     <string name="voice_search_settings_title">Голосовой поиск</string>
@@ -1425,6 +1457,8 @@
     <string name="tts_engine_error_config">Настроить</string>
     <string name="tts_engine_error_reselect">Выбрать другую систему</string>
     <string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
+    <string name="tts_status_title">Состояние языка по умолчанию</string>
+    <string name="tts_status_ok">%1$s поддерживается полностью</string>
     <string name="tts_engines_section">Системы</string>
     <string name="tts_engine_name_settings">Настройки %s</string>
     <string name="tts_engine_name_is_enabled_summary">%s включен</string>
@@ -2211,38 +2245,5 @@
     <string name="profiles_indoor_summary">Режим «В помещении»</string>
     <string name="fm_volume_title">FM</string>
     <string name="incall_volume_title">Громкость во время вызова</string>
-	<string name="zzz_subs_settings">Настройка блокировки SIM-карт</string>
-	<string name="tts_status_title">Состояние языка по умолчанию</string>
-    <string name="tts_status_ok">%1$s поддерживается полностью</string>
-	<string name="process_stats_summary_title">Статистика процессов</string>
-    <string name="process_stats_summary">Статистика работающих процессов</string>
-    <string name="app_memory_use">Использование памяти</string>
-    <string name="process_stats_total_duration">%1$s приложения за %2$s</string>
-    <string name="process_stats_type_background">Фоновые</string>
-    <string name="process_stats_type_foreground">Работающие</string>
-    <string name="process_stats_type_cached">Кэшированные</string>
-    <string name="process_stats_memory_status">Состояние памяти  %1$s</string>
-    <string name="process_stats_avg_ram_use">Среднее использование RAM</string>
-    <string name="process_stats_max_ram_use">Максимальное использование RAM</string>
-    <string name="process_stats_run_time">Время работы</string>
-    <string name="services_subtitle">Службы</string>
-    <string name="menu_proc_stats_duration">Продолжительность</string>
-    <string name="menu_duration_3h">3 часа</string>
-    <string name="menu_duration_6h">6 часов</string>
-    <string name="menu_duration_12h">12 часов</string>
-    <string name="menu_duration_1d">1 день</string>
-    <string name="menu_show_system">Показать системные</string>
-    <string name="menu_use_uss">Ипольз. Uss</string>
-    <string name="menu_proc_stats_type">Тип процессов</string>
-    <string name="menu_proc_stats_type_background">Фоновые</string>
-    <string name="menu_proc_stats_type_foreground">Работающие</string>
-    <string name="menu_proc_stats_type_cached">Кэшированные</string>
-	<string name="adb_keys_warning_message">"Отозвать авторизацию отладки по USB для всех компьютеров?"</string>
-	<string name="versioninfo_hardware_version">Аппаратная версия</string>
-    <string name="versioninfo_software_version">Программная версия</string>
-	<string name="fih_hw_version">Аппаратная версия</string>
-	<string name="usb_charge_only_title">Только зарядка</string>
-    <string name="usb_donot_remind_title">Больше не напоминать</string>
-	<string name="camera_firmware_version">Версия прошивки камеры</string>
-	<string name="touch_firmware_version">Версия прошивки тачскрина</string>
+	<string name="mtp_ptp_mode_summary">Активен режим MTP или PTP</string>
 </resources>
