@@ -501,4 +501,7 @@
     <string name="lock_setup">Настройка выполнена.</string>
 	<string name="fih_discard_message_reason">Ваше сообщение не будет отправлено, адреса получатели неверны.</string>
     <string name="fih_discard_message_reason_empty">Ваше сообщение не будет отправлено, нет получателей.</string>
+	<string name="fih_resending_toast_txt">Отправка...</string>
+	<string name="fih_mms_menu_resend">Отправить повторно</string>
+    <string name="fih_sms_resend_dialog_title">Список повторной отправки</string>
 </resources>
