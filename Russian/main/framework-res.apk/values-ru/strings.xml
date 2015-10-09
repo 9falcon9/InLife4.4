@@ -1256,4 +1256,9 @@
     <string name="fih_extmedia_usb_format_message">"Все файлы на USB накопителе будут удалены. Это действие нельзя отменить!"</string>
 	<string name="fih_op_dialog_title">Предупреждение</string>
     <string name="fih_op_dialog_choice">Не спрашивать снова</string>
+	<string name="zzz_wifi_connected_device_0">Подключенные устройства (0)</string>
+    <string name="zzz_wifi_connected_device">Подключенные устройства (%d)</string>
+    <string name="zzz_hotspot_no_connections">Нет подключенных устройств</string>
+    <string name="zzz_hotspot_multiple_devices_connected">%d подключение(й)</string>
+    <string name="zzz_hotspot_device_connected">Подключенные устройства</string>
 </resources>

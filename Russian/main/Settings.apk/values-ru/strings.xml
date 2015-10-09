@@ -2246,4 +2246,9 @@
     <string name="fm_volume_title">FM</string>
     <string name="incall_volume_title">Громкость во время вызова</string>
 	<string name="mtp_ptp_mode_summary">Активен режим MTP или PTP</string>
+	<string name="zzz_wifi_connected_device_0">Подключенные устройства (0)</string>
+    <string name="zzz_wifi_connected_device">Подключенные устройства (%d)</string>
+    <string name="hotspot_no_connections">Нет подключенных устройств</string>
+    <string name="hotspot_multiple_devices_connected">%d подключение(й)</string>
+    <string name="hotspot_device_connected">Подключенные устройства</string>
 </resources>
