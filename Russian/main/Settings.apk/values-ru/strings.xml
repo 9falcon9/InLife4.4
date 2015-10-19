@@ -2251,4 +2251,6 @@
     <string name="hotspot_no_connections">Нет подключенных устройств</string>
     <string name="hotspot_multiple_devices_connected">%d подключение(й)</string>
     <string name="hotspot_device_connected">Подключенные устройства</string>
+	<string name="fih_change_msg_dialog_title">Приложение для SMS/MMS</string>
+    <string name="fih_change_msg_dialog_body">Использовать %s как приложение по умолчанию?</string>
 </resources>
