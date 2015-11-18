@@ -505,4 +505,5 @@
 	<string name="fih_mms_menu_resend">Отправить повторно</string>
     <string name="fih_sms_resend_dialog_title">Список повторной отправки</string>
 	<string name="confirm_delete_all_messages">Эти сообщения будут удалены.</string>
+	<string name="fih_multiple_select_please_wait">Пожалуйста подождите...</string>
 </resources>
